@@ -1,0 +1,6835 @@
+{
+  "_comment" : "Created with OWL2VOWL (version 0.2.0), http://vowl.visualdataweb.org",
+  "namespace" : [ ],
+  "header" : {
+    "languages" : [ "IRI-based", "nl-nl", "en-gb", "undefined" ],
+    "iri" : "http://otb.noord-holland.nl"
+  },
+  "metrics" : {
+    "classCount" : 163,
+    "datatypeCount" : 3,
+    "objectPropertyCount" : 67,
+    "datatypePropertyCount" : 3,
+    "propertyCount" : 70,
+    "nodeCount" : 166,
+    "axiomCount" : 1041,
+    "individualCount" : 64
+  },
+  "class" : [ {
+    "id" : "class40",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class147",
+    "type" : "externalclass"
+  }, {
+    "id" : "class55",
+    "type" : "externalclass"
+  }, {
+    "id" : "class107",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class144",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class129",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class49",
+    "type" : "externalclass"
+  }, {
+    "id" : "class66",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class43",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class106",
+    "type" : "externalclass"
+  }, {
+    "id" : "class74",
+    "type" : "externalclass"
+  }, {
+    "id" : "class130",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class116",
+    "type" : "externalclass"
+  }, {
+    "id" : "class136",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class44",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class17",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class122",
+    "type" : "externalclass"
+  }, {
+    "id" : "class157",
+    "type" : "externalclass"
+  }, {
+    "id" : "class27",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class41",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class97",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class58",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class78",
+    "type" : "externalclass"
+  }, {
+    "id" : "class6",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class3",
+    "type" : "externalclass"
+  }, {
+    "id" : "class36",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class62",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class146",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class84",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class2",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class11",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class16",
+    "type" : "externalclass"
+  }, {
+    "id" : "class156",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class14",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class73",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class15",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class68",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class138",
+    "type" : "externalclass"
+  }, {
+    "id" : "class25",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class8",
+    "type" : "externalclass"
+  }, {
+    "id" : "class150",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class4",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class48",
+    "type" : "owl:equivalentClass"
+  }, {
+    "id" : "class110",
+    "type" : "externalclass"
+  }, {
+    "id" : "class90",
+    "type" : "externalclass"
+  }, {
+    "id" : "class163",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class98",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class94",
+    "type" : "externalclass"
+  }, {
+    "id" : "class28",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class52",
+    "type" : "externalclass"
+  }, {
+    "id" : "class76",
+    "type" : "externalclass"
+  }, {
+    "id" : "class95",
+    "type" : "externalclass"
+  }, {
+    "id" : "class151",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class131",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class115",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class85",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class120",
+    "type" : "externalclass"
+  }, {
+    "id" : "class109",
+    "type" : "externalclass"
+  }, {
+    "id" : "class162",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class12",
+    "type" : "externalclass"
+  }, {
+    "id" : "class145",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class119",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class70",
+    "type" : "externalclass"
+  }, {
+    "id" : "class121",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class7",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class51",
+    "type" : "owl:equivalentClass"
+  }, {
+    "id" : "class64",
+    "type" : "externalclass"
+  }, {
+    "id" : "class23",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class30",
+    "type" : "externalclass"
+  }, {
+    "id" : "class160",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class86",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class102",
+    "type" : "externalclass"
+  }, {
+    "id" : "class38",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class108",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class112",
+    "type" : "externalclass"
+  }, {
+    "id" : "class123",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class81",
+    "type" : "externalclass"
+  }, {
+    "id" : "class140",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class159",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class161",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class77",
+    "type" : "externalclass"
+  }, {
+    "id" : "class105",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class33",
+    "type" : "externalclass"
+  }, {
+    "id" : "class137",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class132",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class135",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class1",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class158",
+    "type" : "externalclass"
+  }, {
+    "id" : "class143",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class22",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class99",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class60",
+    "type" : "externalclass"
+  }, {
+    "id" : "class141",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class29",
+    "type" : "externalclass"
+  }, {
+    "id" : "class61",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class114",
+    "type" : "externalclass"
+  }, {
+    "id" : "class134",
+    "type" : "externalclass"
+  }, {
+    "id" : "class24",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class124",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class79",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class19",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class104",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class88",
+    "type" : "externalclass"
+  }, {
+    "id" : "class153",
+    "type" : "externalclass"
+  }, {
+    "id" : "class26",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class154",
+    "type" : "externalclass"
+  }, {
+    "id" : "class83",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class18",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class59",
+    "type" : "owl:equivalentClass"
+  }, {
+    "id" : "class152",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class80",
+    "type" : "externalclass"
+  }, {
+    "id" : "class133",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class53",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class56",
+    "type" : "externalclass"
+  }, {
+    "id" : "class127",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class128",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class67",
+    "type" : "externalclass"
+  }, {
+    "id" : "class69",
+    "type" : "externalclass"
+  }, {
+    "id" : "class155",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class42",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class125",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class5",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class71",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class21",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class111",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class65",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class103",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class46",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class92",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class96",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class72",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class57",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class54",
+    "type" : "externalclass"
+  }, {
+    "id" : "class126",
+    "type" : "externalclass"
+  }, {
+    "id" : "class9",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class10",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class93",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class142",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class37",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class118",
+    "type" : "externalclass"
+  }, {
+    "id" : "class13",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class75",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class35",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class34",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class82",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class20",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class91",
+    "type" : "externalclass"
+  }, {
+    "id" : "class63",
+    "type" : "externalclass"
+  }, {
+    "id" : "class50",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class148",
+    "type" : "owl:equivalentClass"
+  }, {
+    "id" : "class45",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class31",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class32",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class100",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class39",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class87",
+    "type" : "externalclass"
+  }, {
+    "id" : "class101",
+    "type" : "externalclass"
+  }, {
+    "id" : "class117",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class47",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class139",
+    "type" : "externalclass"
+  }, {
+    "id" : "class149",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class89",
+    "type" : "owl:Class"
+  }, {
+    "id" : "class113",
+    "type" : "externalclass"
+  }, {
+    "id" : "thing2",
+    "type" : "owl:Thing"
+  }, {
+    "id" : "thing1",
+    "type" : "owl:Thing"
+  } ],
+  "classAttribute" : [ {
+    "id" : "class40",
+    "label" : {
+      "IRI-based" : "Kolkleiding",
+      "undefined" : "O_6.4 Kolkleiding"
+    },
+    "iri" : "http://otb.noord-holland.nl#Kolkleiding",
+    "superClasses" : [ "class74" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Kolkleiding",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class147",
+    "label" : {
+      "IRI-based" : "Voorziening",
+      "nl-nl" : "Voorziening",
+      "en-gb" : "Facility"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Voorziening",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class140", "class36" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class55",
+    "label" : {
+      "IRI-based" : "Vluchthaven",
+      "nl-nl" : "Vluchthaven"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Vluchthaven",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class146" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class107",
+    "label" : {
+      "IRI-based" : "Markering_en_belijning",
+      "undefined" : "O_1.2.1.2 Markering en belijning"
+    },
+    "iri" : "http://otb.noord-holland.nl#Markering_en_belijning",
+    "subClasses" : [ "class151", "class83" ],
+    "superClasses" : [ "class42" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Markering en belijning",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class144",
+    "label" : {
+      "IRI-based" : "Kruising",
+      "undefined" : "O_1.1.3.2 Kruising"
+    },
+    "iri" : "http://otb.noord-holland.nl#Kruising",
+    "superClasses" : [ "class137" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "exactMatch" : [ {
+        "identifier" : "exactMatch",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/def/Kruising",
+        "type" : "iri"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Kruising",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een knooppunt waar twee of meer verkeersstromen elkaar gelijkvloers kruisen maar waar geen uitwisseling van verkeer plaatsvindt (bijvoorbeeld een fietspad dat een gebiedsontsluitingsweg kruist).",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class129",
+    "label" : {
+      "IRI-based" : "Beplanting_langs_Wegen_Vaarwegen_en_Terreinen",
+      "undefined" : "O_3.3 Beplanting langs Wegen, Vaarwegen en Terreinen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Beplanting_langs_Wegen_Vaarwegen_en_Terreinen",
+    "subClasses" : [ "class50", "class125" ],
+    "superClasses" : [ "class112" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Beplanting langs Wegen, Vaarwegen en Terreinen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class49",
+    "label" : {
+      "IRI-based" : "Oever",
+      "nl-nl" : "Oever",
+      "en-gb" : "Bank"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Oever",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class125" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class66",
+    "label" : {
+      "IRI-based" : "Geluidscherm",
+      "undefined" : "O_1.2.2 Geluidscherm"
+    },
+    "iri" : "http://otb.noord-holland.nl#Geluidscherm",
+    "superClasses" : [ "class88" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie objectdefinitie BUDATA v3.4.1",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Geluidscherm",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Onderdeel van een civiel-technisch werk voor de infrastructuur van wegen, water, spoorbanen, waterkeringen en/of leidingen. De NEN 2767-4 decompositie wordt gevolgd, waarbij GELUIDWERENDE_VOORZIENING als Beheerobject is aangemaakt om het element 'geluidwerende constructie' van een bovenliggend beheerobject te voorzien. Geluidwerende voorzieningen worden als zelfstandige objecten beheerd en niet als element van bv bruggen of wegen (zoals in de NEN 2767-4 beschreven).",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class43",
+    "label" : {
+      "IRI-based" : "Ecologische_verbindingen",
+      "undefined" : "O_3.2 Ecologische verbindingen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Ecologische_verbindingen",
+    "subClasses" : [ "class155" ],
+    "superClasses" : [ "class85" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Ecologische verbindingen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class106",
+    "label" : {
+      "IRI-based" : "Installatiecomponent",
+      "nl-nl" : "Installatiecomponent",
+      "en-gb" : "Installation Component"
+    },
+    "iri" : "http://ont.cbnl.org/top/def/Installatiecomponent",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class59" ],
+    "annotations" : {
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "en-gb",
+        "value" : "An installation object that takes care of the subjects distribution.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class74",
+    "label" : {
+      "IRI-based" : "Leiding",
+      "nl-nl" : "Leiding",
+      "en-gb" : "Duct"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Leiding",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class40" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class130",
+    "label" : {
+      "IRI-based" : "Waterhuishouding",
+      "undefined" : "O_6 Waterhuishouding"
+    },
+    "iri" : "http://otb.noord-holland.nl#Waterhuishouding",
+    "superClasses" : [ "class67" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Waterhuishouding",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class116",
+    "label" : {
+      "IRI-based" : "Havengebied",
+      "nl-nl" : "Havengebied"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Havengebied",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class73" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "subject" : [ {
+        "identifier" : "subject",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/collection/Gwwsector",
+        "type" : "iri"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "altLabel" : [ {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "Haven",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class136",
+    "label" : {
+      "IRI-based" : "Wachtplaats",
+      "undefined" : "O_2.3.2 Wachtplaats"
+    },
+    "iri" : "http://otb.noord-holland.nl#Wachtplaats",
+    "superClasses" : [ "class47" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Wachtplaats",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class44",
+    "label" : {
+      "IRI-based" : "DRIS-paneel",
+      "undefined" : "O_1.1.4.3.3 DRIS-paneel"
+    },
+    "iri" : "http://otb.noord-holland.nl#DRIS-paneel",
+    "superClasses" : [ "class70" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "DRIS-paneel",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class17",
+    "label" : {
+      "IRI-based" : "Vaarweggeleiding",
+      "undefined" : "O_2.1.3 Vaarweggeleiding"
+    },
+    "iri" : "http://otb.noord-holland.nl#Vaarweggeleiding",
+    "subClasses" : [ "class103", "class11" ],
+    "superClasses" : [ "class79" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Vaarweggeleiding",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class122",
+    "label" : {
+      "IRI-based" : "Ventweg",
+      "nl-nl" : "Ventweg"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Ventweg",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class162" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Parallelweg in de bebouwde kom.",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class157",
+    "label" : {
+      "IRI-based" : "Camera",
+      "nl-nl" : "Camera",
+      "en-gb" : "Camera"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Camera",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class82", "class32" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class27",
+    "label" : {
+      "IRI-based" : "Wegelement_HOV",
+      "undefined" : "O_1.1.1.2.1 Wegelement Hoogwaardig Openbaar Vervoer (HOV)"
+    },
+    "iri" : "http://otb.noord-holland.nl#Wegelement_HOV",
+    "superClasses" : [ "class132" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Wegelement Hoogwaardig Openbaar Vervoer (HOV)",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een Wegelement Busverkeer bestemd voor Hoogwaardig Openbaar Vervoer (HOV)",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class41",
+    "label" : {
+      "IRI-based" : "Waarnemingssysteem_Wegverkeer",
+      "undefined" : "O_5.1.3 Waarnemingssysteem Wegverkeer"
+    },
+    "iri" : "http://otb.noord-holland.nl#Waarnemingssysteem_Wegverkeer",
+    "superClasses" : [ "class67" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Waarnemingssysteem Wegverkeer",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class97",
+    "label" : {
+      "IRI-based" : "Ecotopen",
+      "undefined" : "O_3.1.3 Ecotopen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Ecotopen",
+    "superClasses" : [ "class139" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Ecotopen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class58",
+    "label" : {
+      "IRI-based" : "Wegelement_Openbaar_Vervoer",
+      "undefined" : "O_1.1.1.2.2 Wegelement Openbaar Vervoer"
+    },
+    "iri" : "http://otb.noord-holland.nl#Wegelement_Openbaar_Vervoer",
+    "superClasses" : [ "class132" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Wegelement Openbaar Vervoer",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een Weglement Busverkeer bestemd voor Openbaar Vervoer (OV)",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class78",
+    "label" : {
+      "IRI-based" : "Netwerk",
+      "nl-nl" : "Netwerk",
+      "en-gb" : "Network"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Netwerk",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class85", "class84" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class6",
+    "label" : {
+      "IRI-based" : "Verblijfspunt_Weg",
+      "undefined" : "O_1.1.4 Verblijfspunt Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#Verblijfspunt_Weg",
+    "subClasses" : [ "class31", "class163", "class128", "class146" ],
+    "superClasses" : [ "class63" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Verblijfspunt Weg",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class3",
+    "label" : {
+      "IRI-based" : "Vaarweg",
+      "nl-nl" : "Vaarweg"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Vaarweg",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class79" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "altLabel" : [ {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "Waterweg",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class36",
+    "label" : {
+      "IRI-based" : "Weginpassingsvoorzieningen",
+      "undefined" : "O_1.2 Weginpassingsvoorzieningen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Weginpassingsvoorzieningen",
+    "subClasses" : [ "class42" ],
+    "superClasses" : [ "class147" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Weginpassingsvoorzieningen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class62",
+    "label" : {
+      "IRI-based" : "Bouwdeel_NEN_2767-4_Oever",
+      "undefined" : "O_2.1.1.1.1 Bouwdeel (NEN 2767-4) Oever"
+    },
+    "iri" : "http://otb.noord-holland.nl#Bouwdeel_NEN_2767-4_Oever",
+    "superClasses" : [ "class4" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Bouwdeel (NEN 2767-4) Oever",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class146",
+    "label" : {
+      "IRI-based" : "Vluchthaven",
+      "undefined" : "O_1.1.4.1 Vluchthaven"
+    },
+    "iri" : "http://otb.noord-holland.nl#Vluchthaven",
+    "superClasses" : [ "class55", "class6" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Vluchthaven",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class84",
+    "label" : {
+      "IRI-based" : "Vaarwegennet",
+      "undefined" : "O_2 Vaarwegennet (traject)"
+    },
+    "iri" : "http://otb.noord-holland.nl#Vaarwegennet",
+    "superClasses" : [ "class78" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Vaarwegennet",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class2",
+    "label" : {
+      "IRI-based" : "Telkast",
+      "undefined" : "O_1.2.5.1.1 Telkast"
+    },
+    "iri" : "http://otb.noord-holland.nl#Telkast",
+    "superClasses" : [ "class115" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Telkast",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class11",
+    "label" : {
+      "IRI-based" : "Lichtopstanden",
+      "undefined" : "O_2.1.3.2 Lichtopstanden"
+    },
+    "iri" : "http://otb.noord-holland.nl#Lichtopstanden",
+    "superClasses" : [ "class17" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Lichtopstanden",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class16",
+    "label" : {
+      "IRI-based" : "Weg",
+      "nl-nl" : "Weg",
+      "en-gb" : "Road"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Weg",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class111" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "altLabel" : [ {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "Verkeersverbinding",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Gebaand gedeelte van het terrein ten behoeve van het verkeer te land, in lengte- en dwarsrichting begrensd door weggrenzen.",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class156",
+    "label" : {
+      "IRI-based" : "Riool",
+      "undefined" : "O_6.1 Riool"
+    },
+    "iri" : "http://otb.noord-holland.nl#Riool",
+    "superClasses" : [ "class94" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Riool",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class14",
+    "label" : {
+      "IRI-based" : "Verkeersmanagementsysteem_Weg",
+      "undefined" : "O_5.1 Verkeersmanagementsysteem Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#Verkeersmanagementsysteem_Weg",
+    "superClasses" : [ "class92" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Verkeersmanagementsysteem Weg",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class73",
+    "label" : {
+      "IRI-based" : "Haven",
+      "undefined" : "O_2.3.1 Haven"
+    },
+    "iri" : "http://otb.noord-holland.nl#Haven",
+    "superClasses" : [ "class116", "class47" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Haven",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class15",
+    "label" : {
+      "IRI-based" : "Energieverzorging_zonnepaneel",
+      "undefined" : "O_1.2.5.1.4 Energieverzorging (zonnepaneel)"
+    },
+    "iri" : "http://otb.noord-holland.nl#Energieverzorging_zonnepaneel",
+    "superClasses" : [ "class115" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Energieverzorging (zonnepaneel)",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class68",
+    "label" : {
+      "IRI-based" : "Kolk_en_put",
+      "undefined" : "O_6.3 Kolk en put"
+    },
+    "iri" : "http://otb.noord-holland.nl#Kolk_en_put",
+    "superClasses" : [ "class101" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Kolk en put",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class138",
+    "label" : {
+      "IRI-based" : "Ecoduct",
+      "nl-nl" : "Ecoduct",
+      "en-gb" : "Ecoduct"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Ecoduct",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class38" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class25",
+    "label" : {
+      "IRI-based" : "Gladheidsmeldsysteem",
+      "undefined" : "O_1.2.5.2 Gladheidsmeldsysteem"
+    },
+    "iri" : "http://otb.noord-holland.nl#Gladheidsmeldsysteem",
+    "superClasses" : [ "class53" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Gladheidsmeldsysteem",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class8",
+    "label" : {
+      "IRI-based" : "Vlot_en_Veilig"
+    },
+    "iri" : "http://eisen.noord-holland.nl#Vlot_en_Veilig",
+    "attributes" : [ "external" ],
+    "instances" : 0
+  }, {
+    "id" : "class150",
+    "label" : {
+      "IRI-based" : "Habitats",
+      "undefined" : "O_3.1.4 Habitats"
+    },
+    "iri" : "http://otb.noord-holland.nl#Habitats",
+    "superClasses" : [ "class118" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Habitats",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class4",
+    "label" : {
+      "IRI-based" : "Element_NEN_2767-4_Oever",
+      "undefined" : "O_2.1.1.1 Element (NEN 2767-4) Oever"
+    },
+    "iri" : "http://otb.noord-holland.nl#Element_NEN_2767-4_Oever",
+    "subClasses" : [ "class62" ],
+    "superClasses" : [ "class127" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Element (NEN 2767-4) Oever",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class48",
+    "label" : {
+      "IRI-based" : "127.html"
+    },
+    "iri" : "http://www.nen2767-4.nl/element/detail/127.html",
+    "attributes" : [ "external", "equivalent" ],
+    "instances" : 0
+  }, {
+    "id" : "class110",
+    "label" : {
+      "IRI-based" : "Verkeersregelinstallatie",
+      "nl-nl" : "Verkeersregelinstallatie",
+      "en-gb" : "Traffic control unit"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Verkeersregelinstallatie",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class148" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "altLabel" : [ {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "Verkeerslichtinstallatie",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class90",
+    "label" : {
+      "IRI-based" : "comfortCijfer"
+    },
+    "iri" : "http://eisen.noord-holland.nl#comfortCijfer",
+    "attributes" : [ "external" ],
+    "instances" : 0
+  }, {
+    "id" : "class163",
+    "label" : {
+      "IRI-based" : "Parkeerplaats",
+      "undefined" : "O_1.1.4.2 Parkeerplaats"
+    },
+    "iri" : "http://otb.noord-holland.nl#Parkeerplaats",
+    "superClasses" : [ "class91", "class6" ],
+    "annotations" : {
+      "relatedMatch" : [ {
+        "identifier" : "relatedMatch",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/def/Parkeerplaats",
+        "type" : "iri"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Parkeerplaats",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class98",
+    "label" : {
+      "IRI-based" : "Provinciaal_systeem",
+      "undefined" : "O_0 Provinciaal systeem"
+    },
+    "iri" : "http://otb.noord-holland.nl#Provinciaal_systeem",
+    "owlVersion" : "0.1",
+    "superClasses" : [ "class67" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie gebaseerd op CBNL",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Provinciaal systeem",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een logisch samenwerkend geheel van provinciale fysieke objecten of van elkaar  afhankelijke provinciale fysieke objecten, die gezamenlijk een functie vervullen.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class94",
+    "label" : {
+      "IRI-based" : "Rioolstelsel",
+      "nl-nl" : "Rioolstelsel",
+      "en-gb" : "Sewer system"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Rioolstelsel",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class156" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "altLabel" : [ {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "Riolering",
+        "type" : "label"
+      }, {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "Riool",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class28",
+    "label" : {
+      "IRI-based" : "Zwemwaterborden",
+      "undefined" : "O_4.5 Zwemwaterborden"
+    },
+    "iri" : "http://otb.noord-holland.nl#Zwemwaterborden",
+    "superClasses" : [ "class140" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Zwemwaterborden",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class52",
+    "label" : {
+      "IRI-based" : "Installatieelement",
+      "nl-nl" : "Installatie-element",
+      "en-gb" : "Installation element "
+    },
+    "iri" : "http://ont.cbnl.org/top/def/Installatieelement",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class123" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "altLabel" : [ {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "Installatie",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "en-gb",
+        "value" : "A grouping of components into a functional installation.",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class76",
+    "label" : {
+      "IRI-based" : "Faunaraster",
+      "nl-nl" : "Faunaraster",
+      "en-gb" : "Wildlife wire-mesh"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Faunaraster",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class93" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "altLabel" : [ {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "Wildraster",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Kunstmatig aangebrachte scheiding van metaaldraad tussen palen, bedoeld voor het leiden van dieren. (bron: IMGEO 2.0)",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class95",
+    "label" : {
+      "IRI-based" : "Sloot",
+      "nl-nl" : "Sloot"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Sloot",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class160" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Watergang voor de waterbeheersing van percelen, die daartoe in verbinding staat met andere watergangen.",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class151",
+    "label" : {
+      "IRI-based" : "Actieve_markering_LED",
+      "undefined" : "O_1.2.1.2.2 Actieve markering (LED)"
+    },
+    "iri" : "http://otb.noord-holland.nl#Actieve_markering_LED",
+    "superClasses" : [ "class107" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Actieve markering (LED)",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class131",
+    "label" : {
+      "IRI-based" : "Besturingskast_matrixpaneel_Vaarwegen",
+      "undefined" : "O_5.2.1.1.4 Besturingskast (matrixpaneel) Vaarwegen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Besturingskast_matrixpaneel_Vaarwegen",
+    "superClasses" : [ "class142" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Besturingskast (matrixpaneel) Vaarwegen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class115",
+    "label" : {
+      "IRI-based" : "Verkeersteller",
+      "undefined" : "O_1.2.5.1 Verkeersteller"
+    },
+    "iri" : "http://otb.noord-holland.nl#Verkeersteller",
+    "subClasses" : [ "class5", "class15", "class2", "class100" ],
+    "superClasses" : [ "class53" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Verkeersteller",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class85",
+    "label" : {
+      "IRI-based" : "Ecologisch_netwerk",
+      "undefined" : "O_3 Ecologisch netwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#Ecologisch_netwerk",
+    "subClasses" : [ "class43", "class19" ],
+    "superClasses" : [ "class78" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Ecologisch netwerk",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class120",
+    "label" : {
+      "IRI-based" : "Autoweg",
+      "nl-nl" : "Autoweg",
+      "en-gb" : "Highway"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Autoweg",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class159", "class132" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Weg met al dan niet gescheiden hoofdrijbanen, waarvan het gebruik slechts is toegestaan voor snelverkeer, aangeduid met een bord.",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class109",
+    "label" : {
+      "IRI-based" : "VasteBrug",
+      "nl-nl" : "Vaste brug",
+      "en-gb" : "Fixed bridge"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/VasteBrug",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class20", "class161" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class162",
+    "label" : {
+      "IRI-based" : "Wegelement_Landbouwverkeer",
+      "undefined" : "O_1.1.1.4 Wegelement Landbouwverkeer"
+    },
+    "iri" : "http://otb.noord-holland.nl#Wegelement_Landbouwverkeer",
+    "superClasses" : [ "class122" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Wegelement Landbouwverkeer",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een begrensd gedeelte van de Weg dat voldoende breed en hoog is voor Landbouwverkeer.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class12",
+    "label" : {
+      "IRI-based" : "Fietspad",
+      "nl-nl" : "Fietspad",
+      "en-gb" : "Bicycle path"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Fietspad",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class9" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Weg, verkeersbaan of rijbaan, bestemd voor fietsers, snorfietsers en eventueel bromfietsers.",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class145",
+    "label" : {
+      "IRI-based" : "Voertuigkering",
+      "undefined" : "O_1.2.3 Voertuigkering"
+    },
+    "iri" : "http://otb.noord-holland.nl#Voertuigkering",
+    "superClasses" : [ "class154" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie RWS Objectenbibliotheek",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Voertuigkering",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Bermbeveiligingsconstructie of kerende leuning die tot doel heeft een gevarenzone af te schermen voor uit koers geraakte voertuigen. ",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class119",
+    "label" : {
+      "IRI-based" : "Scheepvaartsein",
+      "undefined" : "O_5.2.2 Scheepvaartsein"
+    },
+    "iri" : "http://otb.noord-holland.nl#Scheepvaartsein",
+    "superClasses" : [ "class54" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Scheepvaartsein",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class70",
+    "label" : {
+      "IRI-based" : "DynamischRouteInformatiepaneel",
+      "nl-nl" : "Dynamisch route informatiepaneel"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/DynamischRouteInformatiepaneel",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class44" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "altLabel" : [ {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "drip",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class121",
+    "label" : {
+      "IRI-based" : "Terreinen",
+      "undefined" : "O_4.1 Terreinen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Terreinen",
+    "superClasses" : [ "class140" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Terreinen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class7",
+    "label" : {
+      "IRI-based" : "Opstallen",
+      "undefined" : "O_4.2 Opstallen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Opstallen",
+    "superClasses" : [ "class140" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Opstallen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class51",
+    "label" : {
+      "IRI-based" : "144.html"
+    },
+    "iri" : "http://www.nen2767-4.nl/bouwdeel/detail/144.html",
+    "attributes" : [ "external", "equivalent" ],
+    "instances" : 0
+  }, {
+    "id" : "class64",
+    "label" : {
+      "IRI-based" : "Draagconstructie",
+      "nl-nl" : "Draagconstructie",
+      "en-gb" : "Load bearing structure"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Draagconstructie",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class21" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class23",
+    "label" : {
+      "IRI-based" : "Vast_kunstwerk",
+      "undefined" : "O_7.1 Vast kunstwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#Vast_kunstwerk",
+    "superClasses" : [ "class37" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Vast kunstwerk",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class30",
+    "label" : {
+      "IRI-based" : "WaterbergendGroen",
+      "nl-nl" : "Waterbergend groen"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/WaterbergendGroen",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class22" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class160",
+    "label" : {
+      "IRI-based" : "Bermsloot_greppel",
+      "undefined" : "O_6.2 Bermsloot/greppel"
+    },
+    "iri" : "http://otb.noord-holland.nl#Bermsloot_greppel",
+    "superClasses" : [ "class95" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Bermsloot/greppel",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class86",
+    "label" : {
+      "IRI-based" : "Abri",
+      "undefined" : "O_1.1.4.3.2 Abri"
+    },
+    "iri" : "http://otb.noord-holland.nl#Abri",
+    "superClasses" : [ "class29" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Abri",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class102",
+    "label" : {
+      "IRI-based" : "Kunstwerk",
+      "nl-nl" : "Kunstwerk",
+      "en-gb" : "Engineered structure"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Kunstwerk",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class37" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class38",
+    "label" : {
+      "IRI-based" : "Ecoduct",
+      "undefined" : "O_3.2.2 Ecoduct"
+    },
+    "iri" : "http://otb.noord-holland.nl#Ecoduct",
+    "superClasses" : [ "class138" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Ecoduct",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class108",
+    "label" : {
+      "IRI-based" : "Kabels_en_Leidingen",
+      "undefined" : "O_4.3 Kabels en Leidingen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Kabels_en_Leidingen",
+    "superClasses" : [ "class140" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Kabels en Leidingen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class112",
+    "label" : {
+      "IRI-based" : "Beplanting",
+      "nl-nl" : "Beplanting",
+      "en-gb" : "Planting"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Beplanting",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class129" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "subject" : [ {
+        "identifier" : "subject",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/collection/Gwwsector",
+        "type" : "iri"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class123",
+    "label" : {
+      "IRI-based" : "Technische_Installaties_Vaarwegen",
+      "undefined" : "O_5.2.1 Technische Installaties Vaarwegen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Technische_Installaties_Vaarwegen",
+    "subClasses" : [ "class24", "class142" ],
+    "superClasses" : [ "class52" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Technische Installaties Vaarwegen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class81",
+    "label" : {
+      "IRI-based" : "BeweegbareBrug",
+      "nl-nl" : "Beweegbare brug",
+      "en-gb" : "Movable bridge"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/BeweegbareBrug",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class89", "class46" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class140",
+    "label" : {
+      "IRI-based" : "Overige_voorzieningen",
+      "undefined" : "O_4 Overige voorzieningen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Overige_voorzieningen",
+    "subClasses" : [ "class108", "class124", "class7", "class121", "class28" ],
+    "superClasses" : [ "class147" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Overige voorzieningen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class159",
+    "label" : {
+      "IRI-based" : "Wegelement_Autoverkeer",
+      "undefined" : "O_1.1.1.1 Wegelement Autoverkeer"
+    },
+    "iri" : "http://otb.noord-holland.nl#Wegelement_Autoverkeer",
+    "superClasses" : [ "class120" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Wegelement Autoverkeer",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een begrensd gedeelte van de Weg dat voldoende breed en hoog is voor Autoverkeer.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class161",
+    "label" : {
+      "IRI-based" : "Element_Vast_kunstwerk",
+      "undefined" : "O_7.2.1 Element (NEN 2767-4) Vast kunstwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#Element_Vast_kunstwerk",
+    "superClasses" : [ "class109" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Element (NEN 2767-4) Vast kunstwerk",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class77",
+    "label" : {
+      "IRI-based" : "OpenbareVerlichting",
+      "nl-nl" : "Openbare verlichting",
+      "en-gb" : "Public lighting"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/OpenbareVerlichting",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class143" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "altLabel" : [ {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "Straatverlichting",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class105",
+    "label" : {
+      "IRI-based" : "Verkeersmanagementsysteem_Vaarweg",
+      "undefined" : "O_5.2 Verkeersmanagementsysteem Vaarweg"
+    },
+    "iri" : "http://otb.noord-holland.nl#Verkeersmanagementsysteem_Vaarweg",
+    "superClasses" : [ "class92" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Verkeersmanagementsysteem Vaarweg",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class33",
+    "label" : {
+      "IRI-based" : "Bruglicht",
+      "nl-nl" : "Bruglicht",
+      "en-gb" : "Bridge traffic light"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Bruglicht",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class99" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class137",
+    "label" : {
+      "IRI-based" : "Knooppunt",
+      "undefined" : "O_1.1.3 Knooppunt"
+    },
+    "iri" : "http://otb.noord-holland.nl#Knooppunt",
+    "subClasses" : [ "class144", "class135" ],
+    "superClasses" : [ "class153" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Knooppunt",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een locatie waar meerdere verkeersstromen elkaar gelijksvloers ontmoeten",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class132",
+    "label" : {
+      "IRI-based" : "Wegelement_Busverkeer",
+      "undefined" : "O_1.1.1.2 Wegelement Busverkeer"
+    },
+    "iri" : "http://otb.noord-holland.nl#Wegelement_Busverkeer",
+    "subClasses" : [ "class27", "class58" ],
+    "superClasses" : [ "class120" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Defintie Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Wegelement Busverkeer",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een begrensd gedeelte van de Weg dat voldoende breed en hoog is voor Busverkeer.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class135",
+    "label" : {
+      "IRI-based" : "Uitwisselpunt_weg",
+      "undefined" : "O_1.1.3.1 Uitwisselpunt Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#Uitwisselpunt_weg",
+    "subClasses" : [ "class35", "class152" ],
+    "superClasses" : [ "class137" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "exactMatch" : [ {
+        "identifier" : "exactMatch",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/def/Kruispunt",
+        "type" : "iri"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Uitwisselpunt Weg",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een knooppunt waar uitwisseling van verkeer mogelijk is.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class1",
+    "label" : {
+      "IRI-based" : "Draagconstructie_matrixpaneel_Vaarwegen",
+      "undefined" : "O_5.2.1.1.3 Draagconstructie (matrixpaneel) Vaarwegen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Draagconstructie_matrixpaneel_Vaarwegen",
+    "superClasses" : [ "class142" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Draagconstructie (matrixpaneel) Vaarwegen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class158",
+    "label" : {
+      "IRI-based" : "NatuurlijkeTerreinafscheiding",
+      "nl-nl" : "Natuurlijke terreinafscheiding",
+      "en-gb" : "Natural enclosure"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/NatuurlijkeTerreinafscheiding",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class65" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "subject" : [ {
+        "identifier" : "subject",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/collection/Groensector",
+        "type" : "iri"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class143",
+    "label" : {
+      "IRI-based" : "Openbare_Verlichting",
+      "undefined" : "O_1.2.4 Openbare Verlichting"
+    },
+    "iri" : "http://otb.noord-holland.nl#Openbare_Verlichting",
+    "superClasses" : [ "class77" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Openbare Verlichting",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class22",
+    "label" : {
+      "IRI-based" : "Waterberging",
+      "undefined" : "O_3.1.5 Waterberging"
+    },
+    "iri" : "http://otb.noord-holland.nl#Waterberging",
+    "superClasses" : [ "class30" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Waterberging",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class99",
+    "label" : {
+      "IRI-based" : "Wegverkeerssein",
+      "undefined" : "O_5.2.3 Wegverkeerssein"
+    },
+    "iri" : "http://otb.noord-holland.nl#Wegverkeerssein",
+    "superClasses" : [ "class33" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Wegverkeerssein",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Betreft de VRI voor Wegverkeer bij een Beweegbaar kunstwerk (slagboominstallatie). Is niet verbonden met Verkeerscentrale PNH.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class60",
+    "label" : {
+      "IRI-based" : "Bouwproduct",
+      "nl-nl" : "Bouwproduct",
+      "en-gb" : "Construction product "
+    },
+    "iri" : "http://ont.cbnl.org/top/def/Bouwproduct",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class45" ],
+    "annotations" : {
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "en-gb",
+        "value" : "Construction product is a non-applicational discription of a produced product. For instance: a beam. You cannot place a beam in a functionally/applicationally oriented subtyping relation like construction, because it doesn't have a functional/applicational meaning yet.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class141",
+    "label" : {
+      "IRI-based" : "Presentatiepaneel_matrix_Vaarwegen",
+      "undefined" : "O_5.2.1.1.2 Presentatiepaneel (matrix) Vaarwegen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Presentatiepaneel_matrix_Vaarwegen",
+    "superClasses" : [ "class142" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Presentatiepaneel (matrix) Vaarwegen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class29",
+    "label" : {
+      "IRI-based" : "Abri",
+      "nl-nl" : "Abri",
+      "en-gb" : "Bus shelter"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Abri",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class86" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "subject" : [ {
+        "identifier" : "subject",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/collection/Gwwsector",
+        "type" : "iri"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class61",
+    "label" : {
+      "IRI-based" : "Geluidwerende_constructie",
+      "undefined" : "O_1.2.2.1 Geluidwerende constructie (NEN 2767-4)"
+    },
+    "iri" : "http://otb.noord-holland.nl#Geluidwerende_constructie",
+    "superClasses" : [ "class56" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie Objectdefinitie BUDATA v3.4.1",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Geluidwerende constructie (NEN 2767-4)",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een Geluidwerende Constructie is het Element niveau uit de NEN 2767-4. Het is een constructief deel van een Geluidwerende voorziening met gelijkblijvende eigenschappen (zoals hoogte en materiaal) van maximaal 100m lengte. Als een Geluidwerende constructie over een grotere lengte dan 100m uniform is, wordt het toch opgeknipt in delen om een conditiescore per 100m te kunnen bepalen.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class114",
+    "label" : {
+      "IRI-based" : "Voetpad",
+      "nl-nl" : "Voetpad",
+      "en-gb" : "Footpath"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Voetpad",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class34" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class134",
+    "label" : {
+      "IRI-based" : "Halte",
+      "nl-nl" : "Halte",
+      "en-gb" : "Request stop"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Halte",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class39" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "altLabel" : [ {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "Perron",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class24",
+    "label" : {
+      "IRI-based" : "Camera_Vaarweg",
+      "undefined" : "O_5.2.1.2 Camera Vaarweg"
+    },
+    "iri" : "http://otb.noord-holland.nl#Camera_Vaarweg",
+    "superClasses" : [ "class123" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Camera Vaarweg",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class124",
+    "label" : {
+      "IRI-based" : "Materieel_gladheidsbestrijding",
+      "undefined" : "O_4.4 Materieel gladheidsbestrijding"
+    },
+    "iri" : "http://otb.noord-holland.nl#Materieel_gladheidsbestrijding",
+    "superClasses" : [ "class140" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Materieel gladheidsbestrijding",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class79",
+    "label" : {
+      "IRI-based" : "Vaarweg",
+      "undefined" : "O_2.1 Vaarweg"
+    },
+    "iri" : "http://otb.noord-holland.nl#Vaarweg",
+    "subClasses" : [ "class127", "class18", "class17" ],
+    "superClasses" : [ "class3" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Vaarweg",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class19",
+    "label" : {
+      "IRI-based" : "Ecologische_verbindingszone",
+      "undefined" : "O_3.1 Ecologische verbindingszone"
+    },
+    "iri" : "http://otb.noord-holland.nl#Ecologische_verbindingszone",
+    "superClasses" : [ "class85" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Ecologische verbindingszone",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class104",
+    "label" : {
+      "IRI-based" : "Bouwdeel_Geluidwerende_constructie",
+      "undefined" : "O_1.2.2.1.1 Bouwdeel (NEN 2767-4) Geluidwerende constructie"
+    },
+    "iri" : "http://otb.noord-holland.nl#Bouwdeel_Geluidwerende_constructie",
+    "superClasses" : [ "class56" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Bouwdeel (NEN 2767-4) Geluidwerende constructie",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class88",
+    "label" : {
+      "IRI-based" : "GeluidsbeperkendeConstructie",
+      "nl-nl" : "Geluidsbeperkende constructie"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/GeluidsbeperkendeConstructie",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class66" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class153",
+    "label" : {
+      "IRI-based" : "OntmoetingVanVerkeer",
+      "nl-nl" : "Ontmoeting van verkeer"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/OntmoetingVanVerkeer",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class137", "class71" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class26",
+    "label" : {
+      "IRI-based" : "Beweegbaar_kunstwerk",
+      "undefined" : "O_7.2 Beweegbaar kunstwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#Beweegbaar_kunstwerk",
+    "superClasses" : [ "class37" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Beweegbaar kunstwerk",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class154",
+    "label" : {
+      "IRI-based" : "Geleideconstructie",
+      "nl-nl" : "Geleideconstructie",
+      "en-gb" : "Safety structure"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Geleideconstructie",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class145" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "altLabel" : [ {
+        "identifier" : "altLabel",
+        "language" : "nl-nl",
+        "value" : "Afschermingsvoorziening",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class83",
+    "label" : {
+      "IRI-based" : "Belijning",
+      "undefined" : "O_1.2.1.2.1 Belijning"
+    },
+    "iri" : "http://otb.noord-holland.nl#Belijning",
+    "superClasses" : [ "class107" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Belijning",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class18",
+    "label" : {
+      "IRI-based" : "Vaarwegbodem",
+      "undefined" : "O_2.1.2 Vaarwegbodem"
+    },
+    "iri" : "http://otb.noord-holland.nl#Vaarwegbodem",
+    "superClasses" : [ "class79" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Vaarwegbodem",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class59",
+    "label" : {
+      "IRI-based" : "Detectielus",
+      "undefined" : "O_5.1.1.3 Detectielus"
+    },
+    "iri" : "http://otb.noord-holland.nl#Detectielus",
+    "attributes" : [ "equivalent" ],
+    "superClasses" : [ "class106" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Detectielus",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0,
+    "equivalent" : [ "class51" ]
+  }, {
+    "id" : "class152",
+    "label" : {
+      "IRI-based" : "Rotonde",
+      "undefined" : "O_1.1.3.1.1 Rotonde"
+    },
+    "iri" : "http://otb.noord-holland.nl#Rotonde",
+    "superClasses" : [ "class135" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie CROW pub. 156, nomenclatuur van weg en verkeer",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Rotonde",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een verkeersplein waar het verkeer op het plein voorrang heeft, en waarop de wegen radiaal aansluiten.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class80",
+    "label" : {
+      "IRI-based" : "Wegennet",
+      "nl-nl" : "Wegennet",
+      "en-gb" : "Road network"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Wegennet",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class133" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class133",
+    "label" : {
+      "IRI-based" : "Wegennet",
+      "undefined" : "O_1 Wegennet"
+    },
+    "iri" : "http://otb.noord-holland.nl#Wegennet",
+    "superClasses" : [ "class80" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie gebaseerd op CBNL",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Wegennet",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Netwerk dat wegverkeer faciliteert.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class53",
+    "label" : {
+      "IRI-based" : "Dataverzamelsysteem",
+      "undefined" : "O_1.2.5 Dataverzamelsysteem"
+    },
+    "iri" : "http://otb.noord-holland.nl#Dataverzamelsysteem",
+    "subClasses" : [ "class25", "class115" ],
+    "superClasses" : [ "class67" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Dataverzamelsysteem",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Betreft systemen ten behoeve van verkeerstelling en vorstdetectie",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class56",
+    "label" : {
+      "IRI-based" : "Geluidsscherm",
+      "nl-nl" : "Geluidsscherm",
+      "en-gb" : "Acoustic screen"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Geluidsscherm",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class104", "class61" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class127",
+    "label" : {
+      "IRI-based" : "Oever",
+      "undefined" : "O_2.1.1 Oever"
+    },
+    "iri" : "http://otb.noord-holland.nl#Oever",
+    "subClasses" : [ "class4" ],
+    "superClasses" : [ "class79" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie objectdefinitie BUDATA v3.4.1",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Oever",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een Oevervak is de rand van een kanaal, vaarweg of rivier. Het begint bij bodem van het nautisch profiel en gaat door tot 10m achter de oeverconstructie. NB: Dit is het equivalent van Beheerobject bij Vaarwegen conform de NEN 2767-4 Decompositie. Een oevervak is ongeveer 100 meter lang en bestaat uit een uniforme oeverconstructie.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class128",
+    "label" : {
+      "IRI-based" : "Verzorgingsplaats",
+      "undefined" : "O_1.1.4.4 Verzorgingsplaats"
+    },
+    "iri" : "http://otb.noord-holland.nl#Verzorgingsplaats",
+    "superClasses" : [ "class113", "class6" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Verzorgingsplaats",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class67",
+    "label" : {
+      "IRI-based" : "Systeem",
+      "nl-nl" : "Systeem",
+      "en-gb" : "System"
+    },
+    "iri" : "http://ont.cbnl.org/top/def/Systeem",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class53", "class98", "class92", "class41", "class130" ],
+    "annotations" : {
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "en-gb",
+        "value" : "A regularly interacting or interdependent group of concrete objects (cbnltop:FysiekObject) forming a unified whole intended to enable the execution of a specified function.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class69",
+    "label" : {
+      "IRI-based" : "Schutsluis",
+      "nl-nl" : "Schutsluis",
+      "en-gb" : "Ship lock"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Schutsluis",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class149", "class72", "class10" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class155",
+    "label" : {
+      "IRI-based" : "Ecopassages",
+      "undefined" : "O_3.2.1 Ecopassages"
+    },
+    "iri" : "http://otb.noord-holland.nl#Ecopassages",
+    "superClasses" : [ "class43" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Ecopassages",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class42",
+    "label" : {
+      "IRI-based" : "Verkeersgeleiding",
+      "undefined" : "O_1.2.1 Verkeersgeleiding"
+    },
+    "iri" : "http://otb.noord-holland.nl#Verkeersgeleiding",
+    "subClasses" : [ "class117", "class57", "class75", "class107" ],
+    "superClasses" : [ "class36" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Verkeersgeleiding",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class125",
+    "label" : {
+      "IRI-based" : "Oeverbeplanting",
+      "undefined" : "O_3.3.2 Oeverbeplanting"
+    },
+    "iri" : "http://otb.noord-holland.nl#Oeverbeplanting",
+    "superClasses" : [ "class49", "class129" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Oeverbeplanting",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class5",
+    "label" : {
+      "IRI-based" : "Detectielus_Verkeersteller",
+      "undefined" : "O_1.2.5.1.3 Detectielus Verkeersteller"
+    },
+    "iri" : "http://otb.noord-holland.nl#Detectielus_Verkeersteller",
+    "superClasses" : [ "class115" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Detectielus Verkeersteller",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class71",
+    "label" : {
+      "IRI-based" : "Uitwisselpunt_Vaarweg",
+      "undefined" : "O_2.2 Uitwisselpunt Vaarweg"
+    },
+    "iri" : "http://otb.noord-holland.nl#Uitwisselpunt_Vaarweg",
+    "superClasses" : [ "class153" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Uitwisselpunt Vaarweg",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class21",
+    "label" : {
+      "IRI-based" : "Draagconstructie_DRIS",
+      "undefined" : "O_1.1.4.3.4 Draagconstructie DRIS"
+    },
+    "iri" : "http://otb.noord-holland.nl#Draagconstructie_DRIS",
+    "superClasses" : [ "class64" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Draagconstructie DRIS",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class111",
+    "label" : {
+      "IRI-based" : "Weg",
+      "undefined" : "O_1.1 Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#Weg",
+    "superClasses" : [ "class16" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Weg",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Registratief afgebakend gedeelte van een wegennet met gelijkblijvende samenstelling van Wegelement (rijstrook) en functie, waarbij de andere onderliggende objecten tot de Weg behoren.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class65",
+    "label" : {
+      "IRI-based" : "Natuurlijke_overgangen",
+      "undefined" : "O_3.1.1 Natuurlijke overgangen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Natuurlijke_overgangen",
+    "superClasses" : [ "class158" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Natuurlijke overgangen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class103",
+    "label" : {
+      "IRI-based" : "Betonning",
+      "undefined" : "O_2.1.3.1 Betonning"
+    },
+    "iri" : "http://otb.noord-holland.nl#Betonning",
+    "superClasses" : [ "class17" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Betonning",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class46",
+    "label" : {
+      "IRI-based" : "Element_Beweegbaar_kunstwerk",
+      "undefined" : "O_7.2.1 Element (NEN 2767-4) Beweegbaar kunstwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#Element_Beweegbaar_kunstwerk",
+    "superClasses" : [ "class81" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Element (NEN 2767-4) Beweegbaar kunstwerk",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class92",
+    "label" : {
+      "IRI-based" : "Verkeersmanagementsysteem",
+      "undefined" : "O_5 Verkeersmanagementsysteem"
+    },
+    "iri" : "http://otb.noord-holland.nl#Verkeersmanagementsysteem",
+    "subClasses" : [ "class105", "class14" ],
+    "superClasses" : [ "class67" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Verkeersmanagementsysteem",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class96",
+    "label" : {
+      "IRI-based" : "Draagkrachtige_berm",
+      "undefined" : "O_1.1.2 Draagkrachtige berm"
+    },
+    "iri" : "http://otb.noord-holland.nl#Draagkrachtige_berm",
+    "superClasses" : [ "class87" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie CROW pub. 328 Handboek wegontwerp 2013 - Basiscriteria",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Draagkrachtige berm",
+        "type" : "label"
+      } ],
+      "changeNote" : [ {
+        "identifier" : "changeNote",
+        "language" : "undefined",
+        "value" : "Veranderd van Constructieve berm om beter in lijn te zijn met CROW benaming",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Draagkrachtige berm: zijberm met voldoende draagkracht voor een personenauto. Berm waarop een voertuig (personenauto) bestuurbaar blijft.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class72",
+    "label" : {
+      "IRI-based" : "Element_NEN_2767-4_Schutsluis",
+      "undefined" : "O_2.4.1 Element (NEN 2767-4) Schutsluis"
+    },
+    "iri" : "http://otb.noord-holland.nl#Element_NEN_2767-4_Schutsluis",
+    "superClasses" : [ "class69" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Element (NEN 2767-4) Schutsluis",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class57",
+    "label" : {
+      "IRI-based" : "Bermplankjes",
+      "undefined" : "O_1.2.1.4 Bermplankjes"
+    },
+    "iri" : "http://otb.noord-holland.nl#Bermplankjes",
+    "superClasses" : [ "class42" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Bermplankjes",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class54",
+    "label" : {
+      "IRI-based" : "Seinlicht",
+      "nl-nl" : "Seinlicht",
+      "en-gb" : "Sign light"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Seinlicht",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class119" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class126",
+    "label" : {
+      "IRI-based" : "Bushalte",
+      "nl-nl" : "Bushalte",
+      "en-gb" : "Bus stop"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Bushalte",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class31" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Halteplaats voor bussen van het openbaar vervoer. (bron: CROW)",
+        "type" : "label"
+      }, {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Halteplaats voor bussen van het openbaar vervoer.",
+        "type" : "label"
+      }, {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Als stopplaats gereserveerd gedeelte van een weg en als zodanig aangeduid en ingericht voor het op veilige wijze instappen van passagiers in de bus (openbaar vervoer).",
+        "type" : "label"
+      }, {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Als stopplaats (voor een bus van het openbaar vervoer) gereserveerd gedeelte van een weg, ingericht en aangeduid voor het op veilige wijze instappen en uitstappen van passagiers .",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class9",
+    "label" : {
+      "IRI-based" : "Wegelement_Fietsverkeer",
+      "undefined" : "O_1.1.1.3 Wegelement Fietsverkeer"
+    },
+    "iri" : "http://otb.noord-holland.nl#Wegelement_Fietsverkeer",
+    "superClasses" : [ "class12" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Wegelement Fietsverkeer",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een begrensd gedeelte van de Weg dat voldoende breed en hoog is voor Fietsverkeer.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class10",
+    "label" : {
+      "IRI-based" : "Schutsluis",
+      "undefined" : "O_2.4 Schutsluis"
+    },
+    "iri" : "http://otb.noord-holland.nl#Schutsluis",
+    "superClasses" : [ "class69" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Schutsluis",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class93",
+    "label" : {
+      "IRI-based" : "Faunaraster",
+      "undefined" : "O_3.1.2 Faunaraster"
+    },
+    "iri" : "http://otb.noord-holland.nl#Faunaraster",
+    "superClasses" : [ "class76" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Faunaraster",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class142",
+    "label" : {
+      "IRI-based" : "Informatievoorziening_DRIP_Vaarweg",
+      "undefined" : "O_5.2.1.1 Informatievoorziening (DRIP) Vaarweg"
+    },
+    "iri" : "http://otb.noord-holland.nl#Informatievoorziening_DRIP_Vaarweg",
+    "subClasses" : [ "class13", "class131", "class1", "class141" ],
+    "superClasses" : [ "class123" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Informatievoorziening (DRIP) Vaarweg",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class37",
+    "label" : {
+      "IRI-based" : "Kunstwerk",
+      "undefined" : "O_7 Kunstwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#Kunstwerk",
+    "subClasses" : [ "class26", "class23" ],
+    "superClasses" : [ "class102" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Kunstwerk",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class118",
+    "label" : {
+      "IRI-based" : "Biotoop",
+      "nl-nl" : "Biotoop"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Biotoop",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class150" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Een gebied met een uniform landschapstype waarin bepaalde organismen kunnen gedijen.",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class13",
+    "label" : {
+      "IRI-based" : "Besturing_DBS_Vaarwegen",
+      "undefined" : "O_5.2.1.1.1 Besturing (DBS) Vaarwegen"
+    },
+    "iri" : "http://otb.noord-holland.nl#Besturing_DBS_Vaarwegen",
+    "superClasses" : [ "class142" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Besturing (DBS) Vaarwegen",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class75",
+    "label" : {
+      "IRI-based" : "Bewegwijzering",
+      "undefined" : "O_1.2.1.1 Bewegwijzering"
+    },
+    "iri" : "http://otb.noord-holland.nl#Bewegwijzering",
+    "superClasses" : [ "class42" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Bewegwijzering",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class35",
+    "label" : {
+      "IRI-based" : "Kruispunt",
+      "undefined" : "O_1.1.3.1.2 Kruispunt"
+    },
+    "iri" : "http://otb.noord-holland.nl#Kruispunt",
+    "superClasses" : [ "class135" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Kruispunt",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een Uitwisselpunt Weg waar gelijkvloerse uitwisseling van verkeer plaats kan vinden.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class34",
+    "label" : {
+      "IRI-based" : "Wegelement_Voetgangersverkeer",
+      "undefined" : "O_1.1.1.6 Wegelement Voetgangersverkeer"
+    },
+    "iri" : "http://otb.noord-holland.nl#Wegelement_Voetgangersverkeer",
+    "superClasses" : [ "class114" ],
+    "annotations" : {
+      "note" : [ {
+        "identifier" : "note",
+        "language" : "undefined",
+        "value" : "Definitie Kennisgroep SE",
+        "type" : "label"
+      } ],
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Wegelement Voetgangersverkeer",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "undefined",
+        "value" : "Een begrensd gedeelte van de Weg dat voldoende breed en hoog is voor Voetgangersverkeer.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class82",
+    "label" : {
+      "IRI-based" : "VRI-camera",
+      "undefined" : "O_5.1.1.1 VRI-camera"
+    },
+    "iri" : "http://otb.noord-holland.nl#VRI-camera",
+    "superClasses" : [ "class157" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "VRI-camera",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class20",
+    "label" : {
+      "IRI-based" : "Bouwdeel_Vast_kunstwerk",
+      "undefined" : "O_7.2.1.1 Bouwdeel (NEN 2767-4) Vast Kunstwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#Bouwdeel_Vast_kunstwerk",
+    "superClasses" : [ "class109" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Bouwdeel (NEN 2767-4) Vast Kunstwerk",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class91",
+    "label" : {
+      "IRI-based" : "Parkeerplaats",
+      "nl-nl" : "Parkeerplaats",
+      "en-gb" : "Roadside parking area"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Parkeerplaats",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class163" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Ruimte waar __n voertuig kan worden geparkeerd.",
+        "type" : "label"
+      }, {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Tot de weg behorende, maar niet onmiddellijk aan de hoofdrijbaan grenzende parkeergelegenheid, met inbegrip van de bijbehorende verharde en onverharde banen.",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class63",
+    "label" : {
+      "IRI-based" : "Functieruimte",
+      "nl-nl" : "Functie ruimte",
+      "en-gb" : "Functional spatial object"
+    },
+    "iri" : "http://ont.cbnl.org/top/def/Functieruimte",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class47", "class6" ],
+    "annotations" : {
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "en-gb",
+        "value" : "A functionally defined space.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class50",
+    "label" : {
+      "IRI-based" : "Bermbeplanting",
+      "undefined" : "O_3.3.1 Bermbeplanting"
+    },
+    "iri" : "http://otb.noord-holland.nl#Bermbeplanting",
+    "superClasses" : [ "class87", "class129" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Bermbeplanting",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class148",
+    "label" : {
+      "IRI-based" : "VRI_Weg",
+      "undefined" : "O_5.1.1 VRI Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#VRI_Weg",
+    "attributes" : [ "equivalent" ],
+    "superClasses" : [ "class110" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "VRI Weg",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0,
+    "equivalent" : [ "class48" ]
+  }, {
+    "id" : "class45",
+    "label" : {
+      "IRI-based" : "Onderdelen_VRI",
+      "undefined" : "O_5.1.1.4 Onderdelen VRI"
+    },
+    "iri" : "http://otb.noord-holland.nl#Onderdelen_VRI",
+    "superClasses" : [ "class60" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Onderdelen VRI",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class31",
+    "label" : {
+      "IRI-based" : "Bushalte",
+      "undefined" : "O_1.1.4.3 Bushalte"
+    },
+    "iri" : "http://otb.noord-holland.nl#Bushalte",
+    "superClasses" : [ "class126", "class6" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Bushalte",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class32",
+    "label" : {
+      "IRI-based" : "Waarnemingscamera_Wegverkeer",
+      "undefined" : "O_5.1.3.1 Waarnemingscamera Wegverkeer"
+    },
+    "iri" : "http://otb.noord-holland.nl#Waarnemingscamera_Wegverkeer",
+    "superClasses" : [ "class157" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Waarnemingscamera Wegverkeer",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class100",
+    "label" : {
+      "IRI-based" : "Telpaal",
+      "undefined" : "O_1.2.5.1.2 Telpaal"
+    },
+    "iri" : "http://otb.noord-holland.nl#Telpaal",
+    "superClasses" : [ "class115" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Telpaal",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class39",
+    "label" : {
+      "IRI-based" : "Perron",
+      "undefined" : "O_1.1.4.3.1 Perron"
+    },
+    "iri" : "http://otb.noord-holland.nl#Perron",
+    "superClasses" : [ "class134" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Perron",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class87",
+    "label" : {
+      "IRI-based" : "Berm",
+      "nl-nl" : "Berm",
+      "en-gb" : "Shoulder"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Berm",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class50", "class96" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class101",
+    "label" : {
+      "IRI-based" : "Rioolput",
+      "nl-nl" : "Rioolput"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Rioolput",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class68" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class117",
+    "label" : {
+      "IRI-based" : "Bebakening_en_bebording",
+      "undefined" : "O_1.2.1.3 Bebakening en bebording"
+    },
+    "iri" : "http://otb.noord-holland.nl#Bebakening_en_bebording",
+    "superClasses" : [ "class42" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Bebakening en bebording",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class47",
+    "label" : {
+      "IRI-based" : "Verblijfspunt_Vaarweg",
+      "undefined" : "O_2.3 Verblijfspunt Vaarweg"
+    },
+    "iri" : "http://otb.noord-holland.nl#Verblijfspunt_Vaarweg",
+    "subClasses" : [ "class73", "class136" ],
+    "superClasses" : [ "class63" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Verblijfspunt Vaarweg",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class139",
+    "label" : {
+      "IRI-based" : "Ruimte",
+      "nl-nl" : "Ruimte",
+      "en-gb" : "Space"
+    },
+    "iri" : "http://ont.cbnl.org/top/def/Ruimte",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class97" ],
+    "annotations" : {
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "en-gb",
+        "value" : "A non-functionally defined space.",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class149",
+    "label" : {
+      "IRI-based" : "Bouwdeel_NEN_2767-4_Schutsluis",
+      "undefined" : "O_2.4.1.1 Bouwdeel (NEN 2767-4) Schutsluis"
+    },
+    "iri" : "http://otb.noord-holland.nl#Bouwdeel_NEN_2767-4_Schutsluis",
+    "superClasses" : [ "class69" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Bouwdeel (NEN 2767-4) Schutsluis",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class89",
+    "label" : {
+      "IRI-based" : "Bouwdeel_Beweegbaar_kunstwerk",
+      "undefined" : "O_7.2.1.1 Bouwdeel (NEN 2767-4) Beweegbaar Kunstwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#Bouwdeel_Beweegbaar_kunstwerk",
+    "superClasses" : [ "class81" ],
+    "annotations" : {
+      "prefLabel" : [ {
+        "identifier" : "prefLabel",
+        "language" : "undefined",
+        "value" : "Bouwdeel (NEN 2767-4) Beweegbaar Kunstwerk",
+        "type" : "label"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "class113",
+    "label" : {
+      "IRI-based" : "Verzorgingsplaats",
+      "nl-nl" : "Verzorgingsplaats",
+      "en-gb" : "Motorway service area"
+    },
+    "iri" : "http://ont.cbnl.org/cb/def/Verzorgingsplaats",
+    "attributes" : [ "external" ],
+    "subClasses" : [ "class128" ],
+    "annotations" : {
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/agent/CBNL",
+        "type" : "iri"
+      } ],
+      "created" : [ {
+        "identifier" : "created",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "modified" : [ {
+        "identifier" : "modified",
+        "language" : "undefined",
+        "value" : "2015-01-05+01:00",
+        "type" : "label"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "nl-nl",
+        "value" : "Langs de weg gelegen parkeergelegenheid, met inbegrip van de daarbij behorende verharde en onverharde banen en een of meer voorzieningen ten behoeve van reizigers en/of voertuigen.",
+        "type" : "label"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://ont.cbnl.org/cb/id/status/Approved",
+        "type" : "iri"
+      } ]
+    },
+    "instances" : 0
+  }, {
+    "id" : "thing2",
+    "label" : {
+      "undefined" : "Thing"
+    },
+    "iri" : "http://www.w3.org/2002/07/owl#Thing",
+    "instances" : 0
+  }, {
+    "id" : "thing1",
+    "label" : {
+      "undefined" : "Thing"
+    },
+    "iri" : "http://www.w3.org/2002/07/owl#Thing",
+    "instances" : 0
+  } ],
+  "datatype" : [ {
+    "id" : "literal2",
+    "type" : "rdfs:Literal"
+  }, {
+    "id" : "literal1",
+    "type" : "rdfs:Literal"
+  }, {
+    "id" : "literal3",
+    "type" : "rdfs:Literal"
+  } ],
+  "datatypeAttribute" : [ {
+    "id" : "literal2",
+    "label" : {
+      "IRI-based" : "Literal"
+    },
+    "iri" : "http://www.w3.org/2000/01/rdf-schema#Literal"
+  }, {
+    "id" : "literal1",
+    "label" : {
+      "IRI-based" : "Literal"
+    },
+    "iri" : "http://www.w3.org/2000/01/rdf-schema#Literal"
+  }, {
+    "id" : "literal3",
+    "label" : {
+      "IRI-based" : "Literal"
+    },
+    "iri" : "http://www.w3.org/2000/01/rdf-schema#Literal"
+  } ],
+  "property" : [ {
+    "id" : "property210",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "property2",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property1",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property29",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property4",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property3",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property26",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property25",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property28",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property27",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property22",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property21",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property24",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property23",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property20",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property37",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property36",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property39",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property38",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property33",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property32",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property35",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property34",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property31",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property30",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property19",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property18",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property15",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property14",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property17",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property16",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property11",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property10",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property13",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property12",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property139",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property137",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property138",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property140",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property141",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property126",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property132",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property135",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property136",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property133",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property134",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property117",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property115",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property183",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property185",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property179",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property181",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property175",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property177",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property120",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property157",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property121",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property159",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property153",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property155",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property124",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property125",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property151",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property122",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property123",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property106",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property107",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property104",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property105",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property108",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property109",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property110",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property113",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property114",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property111",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property112",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property208",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property187",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property206",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property207",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property204",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property205",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property202",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property203",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property189",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property190",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property188",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property102",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property103",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property100",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property101",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property169",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property197",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property195",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property196",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property193",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property194",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property191",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property192",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property172",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property173",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property170",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property171",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property82",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property81",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property209",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "property143",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property145",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property186",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property142",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property182",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property184",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property178",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property180",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property174",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property176",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property146",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property156",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property158",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property148",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property147",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property150",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property162",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property154",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property152",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property88",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property87",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property89",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property84",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property83",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property149",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property86",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property85",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property91",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property90",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property93",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property92",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property199",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property167",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property198",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property165",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property166",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property163",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property211",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "property164",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property160",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property161",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property200",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property201",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property99",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property98",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property95",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property94",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property97",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property96",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property60",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property69",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property66",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property65",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property68",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property62",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property61",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property64",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property63",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property71",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property70",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property79",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property78",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property73",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property72",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property75",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property74",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property48",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property47",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property49",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property44",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property43",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property46",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property45",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property40",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property42",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property41",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property144",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "property9",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property6",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "property5",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property8",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property7",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property59",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property58",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property55",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property54",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property57",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property56",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property51",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property50",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property53",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "property52",
+    "type" : "rdfs:SubClassOf"
+  } ],
+  "propertyAttribute" : [ {
+    "id" : "property210",
+    "label" : {
+      "IRI-based" : "HeeftComfortcijfer",
+      "undefined" : "Rijstrook Fietsverkeer, Fietspadcomfortcijfer"
+    },
+    "iri" : "http://otb.noord-holland.nl#HeeftComfortcijfer",
+    "domain" : "thing1",
+    "range" : "literal2"
+  }, {
+    "id" : "property2",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class36",
+    "range" : "class147"
+  }, {
+    "id" : "property1",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class140",
+    "range" : "class147"
+  }, {
+    "id" : "property29",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class62",
+    "range" : "class4"
+  }, {
+    "id" : "property4",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class151",
+    "range" : "class107"
+  }, {
+    "id" : "property3",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class146",
+    "range" : "class55"
+  }, {
+    "id" : "property26",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class42",
+    "range" : "class36"
+  }, {
+    "id" : "property25",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class79",
+    "range" : "class3"
+  }, {
+    "id" : "property28",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class38",
+    "range" : "class138"
+  }, {
+    "id" : "property27",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class111",
+    "range" : "class16"
+  }, {
+    "id" : "property22",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class163",
+    "range" : "class6"
+  }, {
+    "id" : "property21",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class31",
+    "range" : "class6"
+  }, {
+    "id" : "property24",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class146",
+    "range" : "class6"
+  }, {
+    "id" : "property23",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class128",
+    "range" : "class6"
+  }, {
+    "id" : "property20",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class84",
+    "range" : "class78"
+  }, {
+    "id" : "property37",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class2",
+    "range" : "class115"
+  }, {
+    "id" : "property36",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class15",
+    "range" : "class115"
+  }, {
+    "id" : "property39",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class43",
+    "range" : "class85"
+  }, {
+    "id" : "property38",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class100",
+    "range" : "class115"
+  }, {
+    "id" : "property33",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class93",
+    "range" : "class76"
+  }, {
+    "id" : "property32",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class123",
+    "range" : "class52"
+  }, {
+    "id" : "property35",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class5",
+    "range" : "class115"
+  }, {
+    "id" : "property34",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class160",
+    "range" : "class95"
+  }, {
+    "id" : "property31",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class156",
+    "range" : "class94"
+  }, {
+    "id" : "property30",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class148",
+    "range" : "class110"
+  }, {
+    "id" : "property19",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class85",
+    "range" : "class78"
+  }, {
+    "id" : "property18",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class32",
+    "range" : "class157"
+  }, {
+    "id" : "property15",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class11",
+    "range" : "class17"
+  }, {
+    "id" : "property14",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class103",
+    "range" : "class17"
+  }, {
+    "id" : "property17",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class82",
+    "range" : "class157"
+  }, {
+    "id" : "property16",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class162",
+    "range" : "class122"
+  }, {
+    "id" : "property11",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class59",
+    "range" : "class106"
+  }, {
+    "id" : "property10",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class155",
+    "range" : "class43"
+  }, {
+    "id" : "property13",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class73",
+    "range" : "class116"
+  }, {
+    "id" : "property12",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class40",
+    "range" : "class74"
+  }, {
+    "id" : "property139",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class136",
+    "range" : "class47"
+  }, {
+    "id" : "property137",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class68",
+    "range" : "class101"
+  }, {
+    "id" : "property138",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class73",
+    "range" : "class47"
+  }, {
+    "id" : "property140",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class97",
+    "range" : "class139"
+  }, {
+    "id" : "property141",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class128",
+    "range" : "class113"
+  }, {
+    "id" : "property126",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class150",
+    "range" : "class118"
+  }, {
+    "id" : "property132",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class163",
+    "range" : "class91"
+  }, {
+    "id" : "property135",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class50",
+    "range" : "class87"
+  }, {
+    "id" : "property136",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class96",
+    "range" : "class87"
+  }, {
+    "id" : "property133",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class47",
+    "range" : "class63"
+  }, {
+    "id" : "property134",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class6",
+    "range" : "class63"
+  }, {
+    "id" : "property117",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class34",
+    "range" : "class9"
+  }, {
+    "id" : "property115",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class31",
+    "range" : "class126"
+  }, {
+    "id" : "property183",
+    "label" : {
+      "IRI-based" : "partOf58",
+      "undefined" : "Ecologische_verbindingszone_partof_Ecologisch_netwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf58",
+    "domain" : "class19",
+    "range" : "class85",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property185",
+    "label" : {
+      "IRI-based" : "partOf59",
+      "undefined" : "Element_NEN_2767-4_Schutsluis_partof_Schutsluis"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf59",
+    "domain" : "class72",
+    "range" : "class10",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property179",
+    "label" : {
+      "IRI-based" : "partOf56",
+      "undefined" : "Riool_partof_Waterhuishouding"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf56",
+    "domain" : "class156",
+    "range" : "class130",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property181",
+    "label" : {
+      "IRI-based" : "partOf57",
+      "undefined" : "Ecotopen_partof_Ecologische_verbindingszone"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf57",
+    "domain" : "class97",
+    "range" : "class19",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property175",
+    "label" : {
+      "IRI-based" : "partOf54",
+      "undefined" : "Bouwdeel_NEN_2767-4_Schutsluis_partof_Element_NEN_2767-4_Schutsluis"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf54",
+    "domain" : "class149",
+    "range" : "class72",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property177",
+    "label" : {
+      "IRI-based" : "partOf55",
+      "undefined" : "Onderdelen_VRI_partof_VRI_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf55",
+    "domain" : "class45",
+    "range" : "class148",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property120",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class13",
+    "range" : "class142"
+  }, {
+    "id" : "property157",
+    "label" : {
+      "IRI-based" : "partOf63",
+      "undefined" : "Wegelement_Landbouwverkeer_partof_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf63",
+    "domain" : "class162",
+    "range" : "class111",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property121",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class131",
+    "range" : "class142"
+  }, {
+    "id" : "property159",
+    "label" : {
+      "IRI-based" : "partOf64",
+      "undefined" : "Element_Beweegbaar_kunstwerk_partof_Beweegbaar_kunstwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf64",
+    "domain" : "class46",
+    "range" : "class26",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property153",
+    "label" : {
+      "IRI-based" : "partOf61",
+      "undefined" : "Voertuigkering_partof_Weginpassingsvoorzieningen"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf61",
+    "domain" : "class145",
+    "range" : "class36",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property155",
+    "label" : {
+      "IRI-based" : "partOf62",
+      "undefined" : "DRIS-paneel_partof_Bushalte"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf62",
+    "domain" : "class44",
+    "range" : "class31",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property124",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class26",
+    "range" : "class37"
+  }, {
+    "id" : "property125",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class23",
+    "range" : "class37"
+  }, {
+    "id" : "property151",
+    "label" : {
+      "IRI-based" : "partOf60",
+      "undefined" : "Wegelement_Autoverkeer_partof_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf60",
+    "domain" : "class159",
+    "range" : "class111",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property122",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class1",
+    "range" : "class142"
+  }, {
+    "id" : "property123",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class141",
+    "range" : "class142"
+  }, {
+    "id" : "property106",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class72",
+    "range" : "class69"
+  }, {
+    "id" : "property107",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class10",
+    "range" : "class69"
+  }, {
+    "id" : "property104",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class130",
+    "range" : "class67"
+  }, {
+    "id" : "property105",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class149",
+    "range" : "class69"
+  }, {
+    "id" : "property108",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class117",
+    "range" : "class42"
+  }, {
+    "id" : "property109",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class57",
+    "range" : "class42"
+  }, {
+    "id" : "property110",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class75",
+    "range" : "class42"
+  }, {
+    "id" : "property113",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class14",
+    "range" : "class92"
+  }, {
+    "id" : "property114",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class119",
+    "range" : "class54"
+  }, {
+    "id" : "property111",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class107",
+    "range" : "class42"
+  }, {
+    "id" : "property112",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class105",
+    "range" : "class92"
+  }, {
+    "id" : "property208",
+    "label" : {
+      "IRI-based" : "partOf38",
+      "undefined" : "Geluidwerende_constructie_partof_Geluidscherm"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf38",
+    "domain" : "class61",
+    "range" : "class66",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property187",
+    "label" : {
+      "IRI-based" : "partOf39",
+      "undefined" : "Ecoduct_partof_Ecologische_verbindingen"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf39",
+    "domain" : "class38",
+    "range" : "class43",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property206",
+    "label" : {
+      "IRI-based" : "partOf36",
+      "undefined" : "Bouwdeel_Beweegbaar_kunstwerk_partof_Element_Beweegbaar_kunstwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf36",
+    "domain" : "class89",
+    "range" : "class46",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property207",
+    "label" : {
+      "IRI-based" : "partOf37",
+      "undefined" : "Ecologische_verbindingen_partof_Ecologisch_netwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf37",
+    "domain" : "class43",
+    "range" : "class85",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property204",
+    "label" : {
+      "IRI-based" : "partOf34",
+      "undefined" : "Wegelement_Voetgangersverkeer_partof_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf34",
+    "domain" : "class34",
+    "range" : "class111",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property205",
+    "label" : {
+      "IRI-based" : "partOf35",
+      "undefined" : "VRI_Weg_partof_Verkeersmanagementsysteem_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf35",
+    "domain" : "class148",
+    "range" : "class14",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property202",
+    "label" : {
+      "IRI-based" : "partOf32",
+      "undefined" : "Waarnemingssysteem_Wegverkeer_partof_Verkeersmanagementsysteem_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf32",
+    "domain" : "class41",
+    "range" : "class14",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property203",
+    "label" : {
+      "IRI-based" : "partOf33",
+      "undefined" : "Vaarwegennet_partof_Provinciaal_systeem"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf33",
+    "domain" : "class84",
+    "range" : "class98",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property189",
+    "label" : {
+      "IRI-based" : "partOf41",
+      "undefined" : "Waterberging_partof_Ecologische_verbindingszone"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf41",
+    "domain" : "class22",
+    "range" : "class19",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property190",
+    "label" : {
+      "IRI-based" : "partOf42",
+      "undefined" : "Wegverkeerssein_partof_Verkeersmanagementsysteem_Vaarweg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf42",
+    "domain" : "class99",
+    "range" : "class105",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property188",
+    "label" : {
+      "IRI-based" : "partOf40",
+      "undefined" : "Ecologisch_netwerk_partof_Provinciaal_systeem"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf40",
+    "domain" : "class85",
+    "range" : "class98",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property102",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class92",
+    "range" : "class67"
+  }, {
+    "id" : "property103",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class41",
+    "range" : "class67"
+  }, {
+    "id" : "property100",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class53",
+    "range" : "class67"
+  }, {
+    "id" : "property101",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class98",
+    "range" : "class67"
+  }, {
+    "id" : "property169",
+    "label" : {
+      "IRI-based" : "HeeftEis",
+      "undefined" : "HeeftEis"
+    },
+    "iri" : "http://otb.noord-holland.nl#HeeftEis",
+    "domain" : "thing2",
+    "range" : "class8"
+  }, {
+    "id" : "property197",
+    "label" : {
+      "IRI-based" : "partOf49",
+      "undefined" : "Verkeersmanagementsysteem_Vaarweg_partof_Verkeersmanagementsysteem"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf49",
+    "domain" : "class105",
+    "range" : "class92",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property195",
+    "label" : {
+      "IRI-based" : "partOf47",
+      "undefined" : "Draagkrachtige_berm_partof_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf47",
+    "domain" : "class96",
+    "range" : "class111",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property196",
+    "label" : {
+      "IRI-based" : "partOf48",
+      "undefined" : "Verblijfspunt_Weg_partof_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf48",
+    "domain" : "class6",
+    "range" : "class111",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property193",
+    "label" : {
+      "IRI-based" : "partOf45",
+      "undefined" : "Openbare_Verlichting_partof_Weginpassingsvoorzieningen"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf45",
+    "domain" : "class143",
+    "range" : "class36",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property194",
+    "label" : {
+      "IRI-based" : "partOf46",
+      "undefined" : "Abri_partof_Bushalte"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf46",
+    "domain" : "class86",
+    "range" : "class31",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property191",
+    "label" : {
+      "IRI-based" : "partOf43",
+      "undefined" : "Scheepvaartsein_partof_Verkeersmanagementsysteem_Vaarweg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf43",
+    "domain" : "class119",
+    "range" : "class105",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property192",
+    "label" : {
+      "IRI-based" : "partOf44",
+      "undefined" : "Knooppunt_partof_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf44",
+    "domain" : "class137",
+    "range" : "class111",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property172",
+    "label" : {
+      "IRI-based" : "partOf52",
+      "undefined" : "Perron_partof_Bushalte"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf52",
+    "domain" : "class39",
+    "range" : "class31",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property173",
+    "label" : {
+      "IRI-based" : "partOf53",
+      "undefined" : "Faunaraster_partof_Ecologische_verbindingszone"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf53",
+    "domain" : "class93",
+    "range" : "class19",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property170",
+    "label" : {
+      "IRI-based" : "partOf50",
+      "undefined" : "Technische_Installaties_Vaarwegen_partof_Verkeersmanagementsysteem_Vaarweg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf50",
+    "domain" : "class123",
+    "range" : "class105",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property171",
+    "label" : {
+      "IRI-based" : "partOf51",
+      "undefined" : "Verkeersmanagementsysteem_partof_Provinciaal_systeem"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf51",
+    "domain" : "class92",
+    "range" : "class98",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property82",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class45",
+    "range" : "class60"
+  }, {
+    "id" : "property81",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class65",
+    "range" : "class158"
+  }, {
+    "id" : "property209",
+    "label" : {
+      "IRI-based" : "TopCode",
+      "undefined" : "TopCode"
+    },
+    "iri" : "http://otb.noord-holland.nl#TopCode",
+    "domain" : "thing1",
+    "range" : "literal1"
+  }, {
+    "id" : "property143",
+    "label" : {
+      "IRI-based" : "partOf18",
+      "undefined" : "Beplanting_langs_Wegen_Vaarwegen_en_Terreinen_partof_Ecologisch_netwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf18",
+    "domain" : "class129",
+    "range" : "class85",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property145",
+    "label" : {
+      "IRI-based" : "partOf19",
+      "undefined" : "Vaarweg_partof_Vaarwegennet"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf19",
+    "domain" : "class79",
+    "range" : "class84",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property186",
+    "label" : {
+      "IRI-based" : "partOf16",
+      "undefined" : "VRI-camera_partof_VRI_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf16",
+    "domain" : "class82",
+    "range" : "class148",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property142",
+    "label" : {
+      "IRI-based" : "partOf17",
+      "undefined" : "Bouwdeel_Vast_kunstwerk_partof_Element_Vast_kunstwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf17",
+    "domain" : "class20",
+    "range" : "class161",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property182",
+    "label" : {
+      "IRI-based" : "partOf14",
+      "undefined" : "Bouwdeel_Geluidwerende_constructie_partof_Geluidwerende_constructie"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf14",
+    "domain" : "class104",
+    "range" : "class61",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property184",
+    "label" : {
+      "IRI-based" : "partOf15",
+      "undefined" : "Element_Vast_kunstwerk_partof_Vast_kunstwerk"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf15",
+    "domain" : "class161",
+    "range" : "class23",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property178",
+    "label" : {
+      "IRI-based" : "partOf12",
+      "undefined" : "Overige_voorzieningen_partof_Provinciaal_systeem"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf12",
+    "domain" : "class140",
+    "range" : "class98",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property180",
+    "label" : {
+      "IRI-based" : "partOf13",
+      "undefined" : "Verblijfspunt_Vaarweg_partof_Vaarwegennet"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf13",
+    "domain" : "class47",
+    "range" : "class84",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property174",
+    "label" : {
+      "IRI-based" : "partOf10",
+      "undefined" : "Geluidscherm_partof_Weginpassingsvoorzieningen"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf10",
+    "domain" : "class66",
+    "range" : "class36",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property176",
+    "label" : {
+      "IRI-based" : "partOf11",
+      "undefined" : "Schutsluis_partof_Vaarwegennet"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf11",
+    "domain" : "class10",
+    "range" : "class84",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property146",
+    "label" : {
+      "IRI-based" : "partOf6",
+      "undefined" : "Kunstwerk_partof_Provinciaal_systeem"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf6",
+    "domain" : "class37",
+    "range" : "class98",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property156",
+    "label" : {
+      "IRI-based" : "partOf5",
+      "undefined" : "Oeverbeplanting_partof_Beplanting_langs_Wegen_Vaarwegen_en_Terreinen"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf5",
+    "domain" : "class125",
+    "range" : "class129",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property158",
+    "label" : {
+      "IRI-based" : "partOf20",
+      "undefined" : "Ecopassages_partof_Ecologische_verbindingen"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf20",
+    "domain" : "class155",
+    "range" : "class43",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property148",
+    "label" : {
+      "IRI-based" : "partOf8",
+      "undefined" : "Draagconstructie_DRIS_partof_Bushalte"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf8",
+    "domain" : "class21",
+    "range" : "class31",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property147",
+    "label" : {
+      "IRI-based" : "partOf7",
+      "undefined" : "Weg_partof_Wegennet"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf7",
+    "domain" : "class111",
+    "range" : "class133",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property150",
+    "label" : {
+      "IRI-based" : "partOf2",
+      "undefined" : "Wegennet_partof_Provinciaal_systeem"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf2",
+    "domain" : "class133",
+    "range" : "class98",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property162",
+    "label" : {
+      "IRI-based" : "partOf1",
+      "undefined" : "Dataverzamelsysteem_partof_Weginpassingsvoorzieningen"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf1",
+    "domain" : "class53",
+    "range" : "class36",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property154",
+    "label" : {
+      "IRI-based" : "partOf4",
+      "undefined" : "Kolkleiding_partof_Waterhuishouding"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf4",
+    "domain" : "class40",
+    "range" : "class130",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property152",
+    "label" : {
+      "IRI-based" : "partOf3",
+      "undefined" : "Bermsloot_greppel_partof_Waterhuishouding"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf3",
+    "domain" : "class160",
+    "range" : "class130",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property88",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class17",
+    "range" : "class79"
+  }, {
+    "id" : "property87",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class18",
+    "range" : "class79"
+  }, {
+    "id" : "property89",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class66",
+    "range" : "class88"
+  }, {
+    "id" : "property84",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class34",
+    "range" : "class114"
+  }, {
+    "id" : "property83",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class86",
+    "range" : "class29"
+  }, {
+    "id" : "property149",
+    "label" : {
+      "IRI-based" : "partOf9",
+      "undefined" : "Uitwisselpunt_Vaarweg_partof_Vaarwegennet"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf9",
+    "domain" : "class71",
+    "range" : "class84",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property86",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class127",
+    "range" : "class79"
+  }, {
+    "id" : "property85",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class39",
+    "range" : "class134"
+  }, {
+    "id" : "property91",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class71",
+    "range" : "class153"
+  }, {
+    "id" : "property90",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class137",
+    "range" : "class153"
+  }, {
+    "id" : "property93",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class35",
+    "range" : "class152"
+  }, {
+    "id" : "property92",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class145",
+    "range" : "class154"
+  }, {
+    "id" : "property199",
+    "label" : {
+      "IRI-based" : "partOf29",
+      "undefined" : "Wegelement_Busverkeer_partof_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf29",
+    "domain" : "class132",
+    "range" : "class111",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property167",
+    "label" : {
+      "IRI-based" : "partOf27",
+      "undefined" : "Wegelement_Fietsverkeer_partof_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf27",
+    "domain" : "class9",
+    "range" : "class111",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property198",
+    "label" : {
+      "IRI-based" : "partOf28",
+      "undefined" : "Natuurlijke_overgangen_partof_Ecologische_verbindingszone"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf28",
+    "domain" : "class65",
+    "range" : "class19",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property165",
+    "label" : {
+      "IRI-based" : "partOf25",
+      "undefined" : "Weginpassingsvoorzieningen_partof_Wegennet"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf25",
+    "domain" : "class36",
+    "range" : "class133",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property166",
+    "label" : {
+      "IRI-based" : "partOf26",
+      "undefined" : "Waterhuishouding_partof_Provinciaal_systeem"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf26",
+    "domain" : "class130",
+    "range" : "class98",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property163",
+    "label" : {
+      "IRI-based" : "partOf23",
+      "undefined" : "Detectielus_partof_VRI_Weg"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf23",
+    "domain" : "class59",
+    "range" : "class148",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property211",
+    "label" : {
+      "IRI-based" : "relatieType",
+      "undefined" : "relatie type"
+    },
+    "iri" : "http://otb.noord-holland.nl#relatieType",
+    "domain" : "thing1",
+    "range" : "literal3"
+  }, {
+    "id" : "property164",
+    "label" : {
+      "IRI-based" : "partOf24",
+      "undefined" : "Verkeersmanagementsysteem_Weg_partof_Verkeersmanagementsysteem"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf24",
+    "domain" : "class14",
+    "range" : "class92",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property160",
+    "label" : {
+      "IRI-based" : "partOf21",
+      "undefined" : "Habitats_partof_Ecologische_verbindingszone"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf21",
+    "domain" : "class150",
+    "range" : "class19",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property161",
+    "label" : {
+      "IRI-based" : "partOf22",
+      "undefined" : "Bermbeplanting_partof_Beplanting_langs_Wegen_Vaarwegen_en_Terreinen"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf22",
+    "domain" : "class50",
+    "range" : "class129",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property200",
+    "label" : {
+      "IRI-based" : "partOf30",
+      "undefined" : "Waarnemingscamera_Wegverkeer_partof_Waarnemingssysteem_Wegverkeer"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf30",
+    "domain" : "class32",
+    "range" : "class41",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property201",
+    "label" : {
+      "IRI-based" : "partOf31",
+      "undefined" : "Kolk_en_put_partof_Waterhuishouding"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf31",
+    "domain" : "class68",
+    "range" : "class130",
+    "superproperty" : [ "property144" ]
+  }, {
+    "id" : "property99",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class4",
+    "range" : "class127"
+  }, {
+    "id" : "property98",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class61",
+    "range" : "class56"
+  }, {
+    "id" : "property95",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class25",
+    "range" : "class53"
+  }, {
+    "id" : "property94",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class133",
+    "range" : "class80"
+  }, {
+    "id" : "property97",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class104",
+    "range" : "class56"
+  }, {
+    "id" : "property96",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class115",
+    "range" : "class53"
+  }, {
+    "id" : "property60",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class124",
+    "range" : "class140"
+  }, {
+    "id" : "property69",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class99",
+    "range" : "class33"
+  }, {
+    "id" : "property66",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class34",
+    "range" : "class159"
+  }, {
+    "id" : "property65",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class132",
+    "range" : "class159"
+  }, {
+    "id" : "property68",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class143",
+    "range" : "class77"
+  }, {
+    "id" : "property62",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class121",
+    "range" : "class140"
+  }, {
+    "id" : "property61",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class7",
+    "range" : "class140"
+  }, {
+    "id" : "property64",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class9",
+    "range" : "class159"
+  }, {
+    "id" : "property63",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class28",
+    "range" : "class140"
+  }, {
+    "id" : "property71",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class135",
+    "range" : "class137"
+  }, {
+    "id" : "property70",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class144",
+    "range" : "class137"
+  }, {
+    "id" : "property79",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class152",
+    "range" : "class135"
+  }, {
+    "id" : "property78",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class35",
+    "range" : "class135"
+  }, {
+    "id" : "property73",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class58",
+    "range" : "class132"
+  }, {
+    "id" : "property72",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class27",
+    "range" : "class132"
+  }, {
+    "id" : "property75",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class34",
+    "range" : "class132"
+  }, {
+    "id" : "property74",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class9",
+    "range" : "class132"
+  }, {
+    "id" : "property48",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class159",
+    "range" : "class162"
+  }, {
+    "id" : "property47",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class34",
+    "range" : "class162"
+  }, {
+    "id" : "property49",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class9",
+    "range" : "class12"
+  }, {
+    "id" : "property44",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class161",
+    "range" : "class109"
+  }, {
+    "id" : "property43",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class20",
+    "range" : "class109"
+  }, {
+    "id" : "property46",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class132",
+    "range" : "class162"
+  }, {
+    "id" : "property45",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class9",
+    "range" : "class162"
+  }, {
+    "id" : "property40",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class19",
+    "range" : "class85"
+  }, {
+    "id" : "property42",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class132",
+    "range" : "class120"
+  }, {
+    "id" : "property41",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class159",
+    "range" : "class120"
+  }, {
+    "id" : "property144",
+    "label" : {
+      "IRI-based" : "partOf",
+      "undefined" : "onderdeelVan"
+    },
+    "iri" : "http://otb.noord-holland.nl#partOf",
+    "domain" : "thing1",
+    "range" : "thing1",
+    "subproperty" : [ "property162", "property174", "property176", "property178", "property180", "property182", "property184", "property186", "property142", "property143", "property145", "property150", "property158", "property160", "property161", "property163", "property164", "property165", "property166", "property167", "property198", "property199", "property152", "property200", "property201", "property202", "property203", "property204", "property205", "property206", "property207", "property208", "property187", "property154", "property188", "property189", "property190", "property191", "property192", "property193", "property194", "property195", "property196", "property197", "property156", "property170", "property171", "property172", "property173", "property175", "property177", "property179", "property181", "property183", "property185", "property146", "property151", "property153", "property155", "property157", "property159", "property147", "property148", "property149" ]
+  }, {
+    "id" : "property9",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class125",
+    "range" : "class49"
+  }, {
+    "id" : "property6",
+    "label" : {
+      "IRI-based" : "Disjoint With"
+    },
+    "domain" : "class135",
+    "range" : "class144"
+  }, {
+    "id" : "property5",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class83",
+    "range" : "class107"
+  }, {
+    "id" : "property8",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class125",
+    "range" : "class129"
+  }, {
+    "id" : "property7",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class50",
+    "range" : "class129"
+  }, {
+    "id" : "property59",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class108",
+    "range" : "class140"
+  }, {
+    "id" : "property58",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class46",
+    "range" : "class81"
+  }, {
+    "id" : "property55",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class24",
+    "range" : "class123"
+  }, {
+    "id" : "property54",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class129",
+    "range" : "class112"
+  }, {
+    "id" : "property57",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class89",
+    "range" : "class81"
+  }, {
+    "id" : "property56",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class142",
+    "range" : "class123"
+  }, {
+    "id" : "property51",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class21",
+    "range" : "class64"
+  }, {
+    "id" : "property50",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class44",
+    "range" : "class70"
+  }, {
+    "id" : "property53",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class37",
+    "range" : "class102"
+  }, {
+    "id" : "property52",
+    "label" : {
+      "IRI-based" : "Subclass Of"
+    },
+    "domain" : "class22",
+    "range" : "class30"
+  } ]
+}
