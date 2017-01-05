@@ -15,7 +15,7 @@ $.jStorage.set('profile', {
 			endpoint : 'https://dydra.com/niels/connecteddata/sparql',
 			examples : [{
 				label : 'Bouwwerk',
-				uri : 'http://begrippen.datalab.org/#Bouwwerk'
+				uri : 'http://begrippen.datalab.org#Bouwwerk'
 			}]
 		}
 	},
