@@ -9,53 +9,48 @@
 	  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 	  <script type="text/javascript" src="sgvizler.js"></script>
 	  <script type="text/javascript">
-		sgvizler.prefix('pnh_otl', 'http://otl.noord-holland.nl#');
-		sgvizler.prefix('ad','http://areaaldata.noord-holland.nl#');
-		sgvizler.prefix('pnh_otb','http://otb.noord-holland.nl#');
 		sgvizler.prefix('skos','http://www.w3.org/2004/02/skos/core#');
 		sgvizler.prefix('geo','http://www.opengis.net/ont/geosparql#');
-		sgvizler.prefix('n197','http://n197.noord-holland.nl#');
+		sgvizler.prefix('data','http://data.datalab.org#');
+		sgvizler.prefix('bg','http://begrippen.datalab.org#');
 		
 		$(document).ready(function() { sgvizler.containerDrawAll(); });
     </script>
 	</head>
    <body>
-   <h4><code>model</code></h4>
-    <div id="sgvzl_example_graph" 
-		data-sgvizler-endpoint="https://dydra.com/niels/otl-noord-holland/sparql" 
+	<h4><code>kaart van aardkundige monumenten uit een triplestore</code></h4>
+    <div id="sgvzl_example_map_query_dydra" 
+		data-sgvizler-endpoint="https://dydra.com/niels/datalab/sparql" 
 		data-sgvizler-query="
-		SELECT  distinct ?dest ?src ?dest_label
-WHERE
-{
-pnh_otb:Provinciaal_systeem a ?root
-{
-?dest rdfs:subClassOf*?root .
-}
-UNION {
-  	?dest  rdfs:subClassOf [ a owl:Restriction ; 
-												owl:onProperty pnh_otb:partOf ; 
-												owl:someValuesFrom ?root] .
-}
-UNION
- {?dest rdfs:subClassOf ?src .
-							FILTER( STRSTARTS(STR(?src),str(pnh_otb:)) )
-?src skos:prefLabel ?src_label .
-?dest skos:prefLabel ?dest_label .
-}
-UNION
- {?dest  rdfs:subClassOf[ a owl:Restriction ; 
-											owl:onProperty pnh_otb:partOf ; 
-											owl:someValuesFrom ?src] . 
-?src skos:prefLabel ?src_label .
-?dest skos:prefLabel ?dest_label .
-}
- }
+		select ?WKT ?f ?t ?naam
+			where { 
+				?f a ?t ;
+              	geo:asWKT ?WKT .
+				?f data:GROEP ?gr .
+              	?f data:GEBIEDSNAAM ?naam 
+			}
 		" 
-		data-sgvizler-chart="google.visualization.OrgChart" 
-		data-sgvizler-chart-options="allowCollapse=true|size=small"
-		style="width:1200px; height:600px;">
+		data-sgvizler-chart="sgvizler.visualization.MapWKT" 
+		style="width:1000px; height:600px;">
 	</div>
 	
-	<p>Deze pagina gebuikt sgvizler.js om sparql queries te visualiseren met de google charts api.</p>
+	<h4><code>tabel van term Aardkundig monument</code></h4>
+    <div id="sgvzl_example_table_query" 
+		data-sgvizler-endpoint="https://dydra.com/niels/connecteddata/sparql"
+		data-sgvizler-query="select * where { bg:Aardkundigmonument ?predicate ?object}" 
+		data-sgvizler-chart="google.visualization.Table" 
+		data-sgvizler-loglevel="2" 
+		style="width:800px; height:400px;">
+	</div>
+	
+	<!--<h4><code>tabel van term Aardkundig monument</code></h4>
+	<div id="sgvzl_example_query" 
+   data-sgvizler-endpoint="https://dydra.com/niels/connecteddata/sparql" 
+   data-sgvizler-query="SELECT ?node ?parent ?size ?color WHERE{ { [rdfs:label ?node ] w:isCountryInRegion [rdfs:label ?parent] ; w:isCountryInRegion ?color ; w:isCountryInContinent [rdfs:label &quot;Asia&quot;] ; w:hasCountryPopulation ?size } UNION { [rdfs:label ?node] w:isRegionInContinent [rdfs:label &quot;Asia&quot;,?parent] ; w:isRegionInContinent ?color } } ORDER BY ?size" 
+   data-sgvizler-chart="sgvizler.visualization.D3ForceGraph" 
+   data-sgvizler-loglevel="2" 
+   style="width:800px; height:400px;"/>
+	-->
+	
 	</body>
 </html>
