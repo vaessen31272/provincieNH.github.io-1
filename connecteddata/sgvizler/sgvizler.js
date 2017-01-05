@@ -4051,7 +4051,8 @@
                                             null,
                                             "<div style='font-size:.8em'>"
                                                 + "<b>" + feature.attributes.name + "</b><br/>"
-                                                + C.util.linkify2String(feature.attributes.uri) + "<br/>"
+                                                //+ C.util.linkify2String(feature.attributes.uri) + "<br/>"
+												+ "<a href=https://provincienh.github.io/connecteddata/lodlive/index.html?" + feature.attributes.uri + ">"+feature.attributes.uri+"</a> <br/>"
                                                 + feature.attributes.description
                                                 + "</div>",
                                             null,
