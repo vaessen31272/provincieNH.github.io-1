@@ -10,9 +10,9 @@
 	  <script type="text/javascript" src="sgvizler.js"></script>
 	  <script type="text/javascript">
 		sgvizler.prefix('skos','http://www.w3.org/2004/02/skos/core#');
-		sgvizler.prefix('geo','http://www.opengis.net/ont/geosparql#');
-		sgvizler.prefix('data','http://data.datalab.org#');
-		sgvizler.prefix('bg','http://begrippen.datalab.org#');
+		sgvizler.prefix('gsp','http://www.opengis.net/ont/geosparql#');
+		sgvizler.prefix('data','http://connecteddata.nl/data/');
+		sgvizler.prefix('bg','http://connecteddata.nl/begrip/');
 		
 		$(document).ready(function() { sgvizler.containerDrawAll(); });
     </script>
@@ -20,12 +20,12 @@
    <body>
 	<h4><code>kaart van aardkundige monumenten uit een triplestore</code></h4>
     <div id="sgvzl_example_map_query_dydra" 
-		data-sgvizler-endpoint="https://dydra.com/niels/datalab/sparql" 
+		data-sgvizler-endpoint="https://dydra.com/niels/connecteddata/sparql" 
 		data-sgvizler-query="
 		select ?WKT ?f ?t ?naam
 			where { 
 				?f a ?t ;
-              	geo:asWKT ?WKT .
+              	gsp:asWKT ?WKT .
 				?f data:GROEP ?gr .
               	?f data:GEBIEDSNAAM ?naam 
 			}
