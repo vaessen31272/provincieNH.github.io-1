@@ -14,7 +14,7 @@ $.jStorage.set('profile', {
 			/*change this*/
 			endpoint : 'https://dydra.com/niels/connecteddata/sparql',
 			examples : [{
-				label : 'Bouwwerk',
+				label : 'Aardkundigmonument',
 				uri : 'http://connecteddata.nl/begrip/Aardkundigmonument'
 			}]
 		}
