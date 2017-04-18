@@ -12,7 +12,7 @@ $.jStorage.set('profile', {
 			},
 			useForInverseSameAs : true,
 			/*change this*/
-			endpoint : 'https://dydra.com/niels/otl-noord-holland/sparql',
+			endpoint : 'https://rdf.s4.ontotext.com/4035408158/otl/repositories/otl',
 			examples : [{
 				label : 'Wegelement Autoverkeer',
 				uri : 'http://otl.noord-holland.nl/otb/Wegelement_Autoverkeer'
