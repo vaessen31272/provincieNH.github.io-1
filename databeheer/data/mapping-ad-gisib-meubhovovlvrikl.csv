@@ -1,0 +1,112 @@
+Areaal,source,target,mapping
+MEUBHOV,ad.bak_p,gisib.Bak,
+MEUBHOV,ad.bord_p,gisib.DRIS paneel,
+MEUBHOV,ad.bord_p,gisib.Bord,
+MEUBHOV,ad.bord_p,gisib.Matrix,
+MEUBHOV,ad.bordScheepvaart_p,gisib.Bord,
+MEUBHOV,ad.bordWegwijzer_p,gisib.Wegwijzer,
+MEUBHOV,ad.bordZwemwater_p,gisib.Zwemwaterbord,
+MEUBHOV,ad.concessieverlener_tbl,gisib.x,
+MEUBHOV,bgt.x,ad.concessieverlener_tbl,
+MEUBHOV,ad.fietsparkeervoorziening_l,gisib.Fietsparkeervoorziening,
+MEUBHOV,ad.gebouwInstallatie_v,gisib.x,
+MEUBHOV,ad.halte_v,gisib.Halte,
+MEUBHOV,ad.kast_p,gisib.GMS Kast,typespec = Gmskast: onbekend
+MEUBHOV,ad.kast_p,gisib.Kast,
+MEUBHOV,ad.kast_p,gisib.Telkast,typespec = Telkast: onbekend
+MEUBHOV,ad.overigBouwwerk_v,gisib.Abri,
+MEUBHOV,ad.overigBouwwerk_v,gisib.Overig bouwwerk,
+MEUBHOV,ad.overigeScheiding_l,gisib.x,
+MEUBHOV,ad.overigeScheiding_v,gisib.x,
+MEUBHOV,ad.paalAfbakening_p,gisib.Bermplank,typespec = Bermplank: onbekend
+MEUBHOV,ad.paalAfbakening_p,gisib.Indexeringspaal,typespec = Indexeringspaal: onbekend
+MEUBHOV,ad.paalAfbakening_p,gisib.Paal,
+MEUBHOV,ad.put_p,gisib.Put,
+MEUBHOV,ad.scheiding_l,gisib.Beschoeiing LM,typespec = BeschoeiingLM: onbekend
+MEUBHOV,ad.scheiding_l,gisib.Scheiding,
+MEUBHOV,ad.scheiding_v,gisib.Scheiding,
+MEUBHOV,ad.spoor_l,gisib.x,
+MEUBHOV,ad.spoorrail_l,gisib.Spoorrail,
+MEUBHOV,ad.straatmeubilair_p,gisib.Straatmeubilair/Overig meubilair,
+MEUBHOV,ad.straatmeubilair_p,gisib.Bolder,typespec = bolder
+MEUBHOV,ad.straatmeubilair_p,gisib.Herdenkingsmonument,typespec = Herdenkingsmonument: onbekend
+MEUBHOV,ad.straatmeubilair_p,gisib.Slagboom,typespec = Slagboom: onbekend
+MEUBHOV,bgt.bak_p,ad.bak_p,
+MEUBHOV,bgt.bord_p,ad.bordScheepvaart_p,bgtplustype = niet-bgt:scheepvaartbord
+MEUBHOV,bgt.bord_p,ad.bordWegwijzer_p,bgtplustype = niet-bgt:wegwijzer
+MEUBHOV,bgt.bord_p,ad.bordZwemwater_p,bgtplustype = niet-bgt (geen goed onderscheid in BGT)
+MEUBHOV,bgt.bord_p,ad.bord_p,bgtplustype = overige waarden
+MEUBHOV,bgt.gebouwInstallatie_v,ad.gebouwInstallatie_v,
+MEUBHOV,bgt.installatie_p,ad.installatie_p,
+MEUBHOV,bgt.kast_p,ad.kast_p,bgtplustype = overige waarden
+MEUBHOV,bgt.overigBouwwerk_v,ad.overigBouwwerk_v,
+MEUBHOV,bgt.overigeScheiding_l,ad.overigeScheiding_l,
+MEUBHOV,bgt.overigeScheiding_v,ad.overigeScheiding_v,
+MEUBHOV,bgt.paal_p,ad.paalAfbakening_p,bgtplustype = o.a. niet-bgt:vlaggenmast
+MEUBHOV,bgt.put_p,ad.put_p,overige waarden
+MEUBHOV,bgt.scheiding_l,ad.scheiding_l,
+MEUBHOV,bgt.scheiding_v,ad.scheiding_v,
+MEUBHOV,bgt.spoor_l,ad.spoor_l,
+MEUBHOV,bgt.straatmeubilair_p,ad.straatmeubilair_p,bgtplustype = overige waarden
+MEUBHOV,bgt.x,ad.fietsparkeervoorziening_l,
+MEUBHOV,bgt.x,ad.halte_v,
+MEUBHOV,bgt.x,ad.spoorrail_l,
+OVLVRIKL,ad.aanduidingEisVoorzorgsmaatr_p,gisib.x,
+OVLVRIKL,bgt.x,ad.aanduidingEisVoorzorgsmaatr_p,
+OVLVRIKL,ad.aanduidingVerzoekContact_p,gisib.x,
+OVLVRIKL,bgt.x,ad.aanduidingVerzoekContact_p,
+OVLVRIKL,ad.buis_l,gisib.Buis,
+OVLVRIKL,ad.buisleiding_v,gisib.Buisleiding,
+OVLVRIKL,ad.diepteTovMaaiveld_p,gisib.x,
+OVLVRIKL,bgt.x,ad.diepteTovMaaiveld_p,
+OVLVRIKL,ad.electriciteitskabel_l,gisib.Kabel,
+OVLVRIKL,bgt.x,ad.electriciteitskabel_l,
+OVLVRIKL,ad.installatie_p,gisib.Installatie,
+OVLVRIKL,ad.kabelbed_v,gisib.Kabelbed,
+OVLVRIKL,bgt.x,ad.kabelbed_v,
+OVLVRIKL,ad.kastDRIS_p,gisib.DRIS kast,
+OVLVRIKL,bgt.x,ad.kastDRIS_p,
+OVLVRIKL,ad.kastOvl_p,gisib.OVL kast,
+OVLVRIKL,ad.kastVri_p,gisib.VRI kast,
+OVLVRIKL,ad.lamp_p,gisib.Lamp,
+OVLVRIKL,ad.lantaarn_p,gisib.Lantaarn,
+OVLVRIKL,ad.leidingelement_p,gisib.Leidingelement,
+OVLVRIKL,ad.mantelbuis_v,gisib.Mantelbuis,
+OVLVRIKL,ad.mastDraagconstructie_p,gisib.Paal,
+OVLVRIKL,ad.onderdeel_tbl,gisib.Mast onderdeel,
+OVLVRIKL,bgt.x,ad.onderdeel_tbl,
+OVLVRIKL,ad.paalDraagconstructie_p,gisib.Mast,
+OVLVRIKL,ad.sensor_l,gisib.Lus,
+OVLVRIKL,ad.sensor_p,gisib.Detectie,
+OVLVRIKL,ad.sensor_p,gisib.Observatiecamera,typespec = ObservatieCamera: onbekend
+OVLVRIKL,ad.straatmeubilairLichtpunt_p,gisib.Armatuur,
+OVLVRIKL,ad.straatmeubilairLichtpunt_p,gisib.Markeringsunit,typespec = Markeringsunit: onbekend
+OVLVRIKL,ad.telecommunicatiekabel_l,gisib.Kabel,
+OVLVRIKL,bgt.x,ad.telecommunicatiekabel_l,
+OVLVRIKL,ad.telpaal_p,gisib.Telpaal,
+OVLVRIKL,bgt.x,ad.telpaal_p,
+OVLVRIKL,ad.uithouder_p,gisib.Uithouder,
+OVLVRIKL,ad.uitleggerPortaal_l,gisib.Uitlegger portaal,
+OVLVRIKL,bgt.x,ad.uitleggerPortaal_l,
+OVLVRIKL,ad.utiliteitsLink_l,gisib.x,
+OVLVRIKL,bgt.x,ad.utiliteitsLink_l,
+OVLVRIKL,ad.utiliteitsNet_tbl,gisib.OVL Installatie,
+OVLVRIKL,ad.utiliteitsNet_tbl,gisib.VRI Installatie,
+OVLVRIKL,bgt.kast_p,ad.kastVri_p,bgtplustype = niet-bgt:verkeersregelinstallatiekast
+OVLVRIKL,bgt.kast_p,ad.kastOvl_p,bgtplustype = niet-bgt:openbare verlichtingkast
+OVLVRIKL,bgt.mast_p,ad.mastDraagconstructie_p,
+OVLVRIKL,bgt.paal_p,ad.paalDraagconstructie_p,"bgtplustype = niet-bgt:lichtmast, niet-bgt:drukknoppaal, niet-bgt:haltepaal, niet-bgt:poller, niet-bgt:portaal, niet-bgt:verkeersbordpaal, niet-bgt:verkeersregelinstallatiepaal"
+OVLVRIKL,bgt.put_p,ad.leidingelement_p,bgtplustype = niet-bgt:kolk
+OVLVRIKL,bgt.sensor_l,ad.sensor_l,
+OVLVRIKL,bgt.sensor_p,ad.sensor_p,
+OVLVRIKL,bgt.straatmeubilair_p,ad.straatmeubilairLichtpunt_p,bgtplustype = niet-bgt:lichtpunt
+OVLVRIKL,bgt.x,ad.lantaarn_p,
+OVLVRIKL,bgt.x,ad.buis_l,
+OVLVRIKL,bgt.x,ad.buisleiding_v,
+OVLVRIKL,bgt.x,ad.kabelbed_v,
+OVLVRIKL,bgt.x,ad.mantelbuis_v,
+OVLVRIKL,bgt.x,ad.leidingelement_p,
+OVLVRIKL,bgt.x,ad.lamp_p,
+OVLVRIKL,bgt.x,ad.uitleggerPortaal_l,
+OVLVRIKL,bgt.x,ad.uithouder_p,
+OVLVRIKL,bgt.x,ad.utiliteitsNet_tbl,
