@@ -75,3 +75,4 @@ GRVERH,bgt.x,ad.crowInspectie_tbl,
 GRVERH,bgt.x,ad.crowInspectieresultaat_tbl,
 GRVERH,bgt.x,ad.x,
 GRVERH,bgt.x,ad.crowMeting_tbl,
+GRVERH,ad.wegdeel_v,gisib.Ondersteunend wegvakonderdeel,typespec = molgoot
