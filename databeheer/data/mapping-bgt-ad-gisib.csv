@@ -1,78 +1,78 @@
-Areaal,source,target,mapping
-GRVERH,ad.begroeidTerreindeel_v,gisib.x,
-GRVERH,ad.begroeidTerreindeelBerm_v,gisib.Berm,
-GRVERH,ad.begroeidTerreindeelBermKruin_l,gisib.x,
-GRVERH,ad.begroeidTerreindeelKruin_l,gisib.x,
-GRVERH,ad.begroeidTerreindeelPlantvak_v,gisib.Plantvak,
-GRVERH,ad.begroeidTerreindeelPvKr_l,gisib.x,
-GRVERH,ad.beschoeiingInspectie_tbl,gisib.Inspectie beschoeiing LM,
-GRVERH,ad.crowInspectie_tbl,gisib.CROW Weginspectie,
-GRVERH,ad.crowInspectieresultaat_tbl,gisib.CROW Weginspectie,
-GRVERH,ad.crowMeting_tbl,gisib.Wegvakonderdeel,
-GRVERH,ad.ecoHoofdstructuur_v,gisib.Ecologische Hoofdstructuur,
-GRVERH,ad.ecoVerbZone_v,gisib.Ecologische Verbindingszone,
-GRVERH,ad.faunavoorziening_v,gisib.Faunavoorziening,
-GRVERH,ad.kruispunt_p,gisib.Kruispunt,
-GRVERH,ad.onbegroeidTerreindeel_v,gisib.Oeverbescherming,
-GRVERH,ad.onbegroeidTerreindeel_v,gisib.x,
-GRVERH,ad.onbegroeidTerreindeelKruin_l,gisib.x,
-GRVERH,ad.ondersteunendWaterdeel_v,gisib.Plasberm,typespec = Plasberm
-GRVERH,ad.ondersteunendWaterdeel_v,gisib.Oeverbescherming,
-GRVERH,ad.ondersteunendWegdeel_v,gisib.Berm,typespec = Berm: onbekend
-GRVERH,ad.ondersteunendWegdeel_v,gisib.Ondersteunend wegvakonderdeel,
-GRVERH,ad.ondersteunendWegdeelKruin_l,gisib.x,
-GRVERH,ad.ondersteunendWegdeelPlantvak_v,gisib.Rotonde,
-GRVERH,ad.recreatieplek_v,gisib.Recreatieplek,
-GRVERH,ad.vegetatieObject_l,gisib.Heg,
-GRVERH,ad.vegetatieObject_p,gisib.Boom,
-GRVERH,ad.vegetatieObject_v,gisib.x,
-GRVERH,ad.vtaInspectie_tbl,gisib.VTA Inspectie,
-GRVERH,ad.waterloop_l,gisib.Waterloop,
-GRVERH,ad.weg_l,gisib.Weg,
-GRVERH,ad.wegdeel_v,gisib.Wegvakonderdeel,
-GRVERH,ad.wegdeelKruin_l,gisib.x,
-GRVERH,ad.wegdeelPerron_v,gisib.Perron,
-GRVERH,ad.weginrichtingselement_l,gisib.Geleiderail,
-GRVERH,ad.weginrichtingselement_p,gisib.x,
-GRVERH,ad.weginrichtingselement_v,gisib.Plantvak,
-GRVERH,ad.wegvak_v,gisib.Wegvak,
-GRVERH,ad.x,gisib.Beschoeiing LM reparatie,
-GRVERH,ad.x,gisib.Nweg foto,
-GRVERH,ad.x,gisib.Planten soort verdeling,
-GRVERH,bgt.begroeidTerreindeel_v,ad.begroeidTerreindeel_v,
-GRVERH,bgt.begroeidTerreindeel_v,ad.begroeidTerreindeelBerm_v,fysiekvoorkomen = groenvoorziening:gras- en kruidachtigen
-GRVERH,bgt.begroeidTerreindeel_v,ad.begroeidTerreindeelPlantvak_v,"fysiekvoorkomen = loofbos, groenvoorziening:struikrozen, planten, heesters, bosplantsoen, bodembedekkers"
-GRVERH,bgt.begroeidTerreindeelKruin_l,ad.begroeidTerreindeelKruin_l,
-GRVERH,bgt.begroeidTerreindeelKruin_l,ad.begroeidTerreindeelBermKruin_l,
-GRVERH,bgt.begroeidTerreindeelKruin_l,ad.begroeidTerreindeelPvKr_l,
-GRVERH,bgt.onbegroeidTerreindeel_v,ad.onbegroeidTerreindeel_v,
-GRVERH,bgt.onbegroeidTerreindeelKruin_l,ad.onbegroeidTerreindeelKruin_l,
-GRVERH,bgt.ondersteunendWaterdeel_v,ad.ondersteunendWaterdeel_v,
-GRVERH,bgt.ondersteunendWegdeel_v,ad.ondersteunendWegdeel_v,
-GRVERH,bgt.ondersteunendWegdeel_v,ad.ondersteunendWegdeelPlantvak_v,fysiekvoorkomen = groenvoorziening
-GRVERH,bgt.ondersteunendWegdeelKruin_l,ad.ondersteunendWegdeelKruin_l,
-GRVERH,bgt.vegetatieObject_l,ad.vegetatieObject_l,
-GRVERH,bgt.vegetatieObject_p,ad.vegetatieObject_p,
-GRVERH,bgt.vegetatieObject_v,ad.vegetatieObject_v,
-GRVERH,bgt.wegdeel_v,ad.wegdeelPerron_v,functie = voetpad  (geen goed onderscheid in BGT)
-GRVERH,bgt.wegdeel_v,ad.wegdeel_v,
-GRVERH,bgt.wegdeelKruin_l,ad.wegdeelKruin_l,
-GRVERH,bgt.weginrichtingselement_l,ad.weginrichtingselement_l,
-GRVERH,bgt.weginrichtingselement_p,ad.weginrichtingselement_p,
-GRVERH,bgt.weginrichtingselement_v,ad.weginrichtingselement_v,
-GRVERH,bgt.x,ad.faunavoorziening_v,
-GRVERH,bgt.x,ad.kruispunt_p,
-GRVERH,bgt.x,ad.recreatieplek_v,
-GRVERH,bgt.x,ad.wegvak_v,
-GRVERH,bgt.x,ad.weg_l,
-GRVERH,bgt.x,ad.waterloop_l,
-GRVERH,bgt.x,ad.beschoeiingInspectie_tbl,
-GRVERH,bgt.x,ad.ecoHoofdstructuur_v,
-GRVERH,bgt.x,ad.ecoVerbZone_v,
-GRVERH,bgt.x,ad.vtaInspectie_tbl,
-GRVERH,bgt.x,ad.beschoeiingInspectie_tbl,
-GRVERH,bgt.x,ad.crowInspectie_tbl,
-GRVERH,bgt.x,ad.crowInspectieresultaat_tbl,
-GRVERH,bgt.x,ad.x,
-GRVERH,bgt.x,ad.crowMeting_tbl,
-GRVERH,ad.wegdeel_v,gisib.Ondersteunend wegvakonderdeel,typespec = molgoot
+Areaal;source;target;mapping
+GRVERH;Opdelend/ad.begroeidTerreindeel_v;/gisib.x;
+GRVERH;Opdelend/ad.begroeidTerreindeelBerm_v;/gisib.Berm;
+GRVERH;Opdelend/ad.begroeidTerreindeelBermKruin_l;/gisib.x;
+GRVERH;Opdelend/ad.begroeidTerreindeelKruin_l;/gisib.x;
+GRVERH;Opdelend/ad.begroeidTerreindeelPlantvak_v;/gisib.Plantvak;
+GRVERH;Opdelend/ad.begroeidTerreindeelPvKr_l;/gisib.x;
+GRVERH;buitenFds/ad.beschoeiingInspectie_tbl;/gisib.Inspectie beschoeiing LM;
+GRVERH;buitenFds/ad.crowInspectie_tbl;/gisib.CROW Weginspectie;
+GRVERH;buitenFds/ad.crowInspectieresultaat_tbl;/gisib.CROW Weginspectie;
+GRVERH;buitenFds/ad.crowMeting_tbl;/gisib.Wegvakonderdeel;
+GRVERH;Functioneel/ad.ecoHoofdstructuur_v;/gisib.Ecologische Hoofdstructuur;
+GRVERH;Functioneel/ad.ecoVerbZone_v;/gisib.Ecologische Verbindingszone;
+GRVERH;Functioneel/ad.faunavoorziening_v;/gisib.Faunavoorziening;
+GRVERH;Functioneel/ad.kruispunt_p;/gisib.Kruispunt;
+GRVERH;Opdelend/ad.onbegroeidTerreindeel_v;/gisib.Oeverbescherming;
+GRVERH;Opdelend/ad.onbegroeidTerreindeel_v;/gisib.x;
+GRVERH;Opdelend/ad.onbegroeidTerreindeelKruin_l;/gisib.x;
+GRVERH;Opdelend/ad.ondersteunendWaterdeel_v;/gisib.Plasberm;typespec = Plasberm
+GRVERH;Opdelend/ad.ondersteunendWaterdeel_v;/gisib.Oeverbescherming;
+GRVERH;Opdelend/ad.ondersteunendWegdeel_v;/gisib.Berm;typespec = Berm: onbekend
+GRVERH;Opdelend/ad.ondersteunendWegdeel_v;/gisib.Ondersteunend wegvakonderdeel;
+GRVERH;Opdelend/ad.ondersteunendWegdeelKruin_l;/gisib.x;
+GRVERH;Opdelend/ad.ondersteunendWegdeelPlantvak_v;/gisib.Rotonde;
+GRVERH;Functioneel/ad.recreatieplek_v;/gisib.Recreatieplek;
+GRVERH;Inrichtend/ad.vegetatieObject_l;/gisib.Heg;
+GRVERH;Inrichtend/ad.vegetatieObject_p;/gisib.Boom;
+GRVERH;Inrichtend/ad.vegetatieObject_v;/gisib.x;
+GRVERH;buitenFds/ad.vtaInspectie_tbl;/gisib.VTA Inspectie;
+GRVERH;Inrichtend/ad.waterloop_l;/gisib.Waterloop;
+GRVERH;Functioneel/ad.weg_l;/gisib.Weg;
+GRVERH;Opdelend/ad.wegdeel_v;/gisib.Wegvakonderdeel;
+GRVERH;Opdelend/ad.wegdeelKruin_l;/gisib.x;
+GRVERH;Opdelend/ad.wegdeelPerron_v;/gisib.Perron;
+GRVERH;Inrichtend/ad.weginrichtingselement_l;/gisib.Geleiderail;
+GRVERH;Inrichtend/ad.weginrichtingselement_p;/gisib.x;
+GRVERH;Inrichtend/ad.weginrichtingselement_v;/gisib.Plantvak;
+GRVERH;Functioneel/ad.wegvak_v;/gisib.Wegvak;
+GRVERH;/ad.x;/gisib.Beschoeiing LM reparatie;
+GRVERH;/ad.x;/gisib.Nweg foto;
+GRVERH;/ad.x;/gisib.Planten soort verdeling;
+GRVERH;/bgt.begroeidTerreindeel_v;Opdelend/ad.begroeidTerreindeel_v;
+GRVERH;/bgt.begroeidTerreindeel_v;Opdelend/ad.begroeidTerreindeelBerm_v;fysiekvoorkomen = groenvoorziening:gras- en kruidachtigen
+GRVERH;/bgt.begroeidTerreindeel_v;Opdelend/ad.begroeidTerreindeelPlantvak_v;fysiekvoorkomen = loofbos, groenvoorziening:struikrozen, planten, heesters, bosplantsoen, bodembedekkers
+GRVERH;/bgt.begroeidTerreindeelKruin_l;Opdelend/ad.begroeidTerreindeelKruin_l;
+GRVERH;/bgt.begroeidTerreindeelKruin_l;Opdelend/ad.begroeidTerreindeelBermKruin_l;
+GRVERH;/bgt.begroeidTerreindeelKruin_l;Opdelend/ad.begroeidTerreindeelPvKr_l;
+GRVERH;/bgt.onbegroeidTerreindeel_v;Opdelend/ad.onbegroeidTerreindeel_v;
+GRVERH;/bgt.onbegroeidTerreindeelKruin_l;Opdelend/ad.onbegroeidTerreindeelKruin_l;
+GRVERH;/bgt.ondersteunendWaterdeel_v;Opdelend/ad.ondersteunendWaterdeel_v;
+GRVERH;/bgt.ondersteunendWegdeel_v;Opdelend/ad.ondersteunendWegdeel_v;
+GRVERH;/bgt.ondersteunendWegdeel_v;Opdelend/ad.ondersteunendWegdeelPlantvak_v;fysiekvoorkomen = groenvoorziening
+GRVERH;/bgt.ondersteunendWegdeelKruin_l;Opdelend/ad.ondersteunendWegdeelKruin_l;
+GRVERH;/bgt.vegetatieObject_l;Inrichtend/ad.vegetatieObject_l;
+GRVERH;/bgt.vegetatieObject_p;Inrichtend/ad.vegetatieObject_p;
+GRVERH;/bgt.vegetatieObject_v;Inrichtend/ad.vegetatieObject_v;
+GRVERH;/bgt.wegdeel_v;Opdelend/ad.wegdeelPerron_v;functie = voetpad  (geen goed onderscheid in BGT)
+GRVERH;/bgt.wegdeel_v;Opdelend/ad.wegdeel_v;
+GRVERH;/bgt.wegdeelKruin_l;Opdelend/ad.wegdeelKruin_l;
+GRVERH;/bgt.weginrichtingselement_l;Inrichtend/ad.weginrichtingselement_l;
+GRVERH;/bgt.weginrichtingselement_p;Inrichtend/ad.weginrichtingselement_p;
+GRVERH;/bgt.weginrichtingselement_v;Inrichtend/ad.weginrichtingselement_v;
+GRVERH;/bgt.x;Functioneel/ad.faunavoorziening_v;
+GRVERH;/bgt.x;Functioneel/ad.kruispunt_p;
+GRVERH;/bgt.x;Functioneel/ad.recreatieplek_v;
+GRVERH;/bgt.x;Functioneel/ad.wegvak_v;
+GRVERH;/bgt.x;Functioneel/ad.weg_l;
+GRVERH;/bgt.x;Inrichtend/ad.waterloop_l;
+GRVERH;/bgt.x;buitenFds/ad.beschoeiingInspectie_tbl;
+GRVERH;/bgt.x;Functioneel/ad.ecoHoofdstructuur_v;
+GRVERH;/bgt.x;Functioneel/ad.ecoVerbZone_v;
+GRVERH;/bgt.x;buitenFds/ad.vtaInspectie_tbl;
+GRVERH;/bgt.x;buitenFds/ad.beschoeiingInspectie_tbl;
+GRVERH;/bgt.x;buitenFds/ad.crowInspectie_tbl;
+GRVERH;/bgt.x;buitenFds/ad.crowInspectieresultaat_tbl;
+GRVERH;/bgt.x;/ad.x;
+GRVERH;/bgt.x;buitenFds/ad.crowMeting_tbl;
+GRVERH;Opdelend/ad.wegdeel_v;/gisib.Ondersteunend wegvakonderdeel;typespec = molgoot

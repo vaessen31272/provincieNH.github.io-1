@@ -213,11 +213,28 @@ d3.csv("data/mapping-bgt-ad-gisib.csv", function(error, data) {
       .attr("class", "node")
       .attr("transform", function(d) { 
 		  return "translate(" + d.x + "," + d.y + ")"; })
-    .call(d3.behavior.drag()
-      .origin(function(d) { return d; })
-      .on("dragstart", function() { 
-		  this.parentNode.appendChild(this); })
-      .on("drag", dragmove));
+      .on("click",function(d){
+        var bgturl="http://imgeo.geostandaarden.nl/def/imgeo-object/"
+        var adurl="https://github.com/provincieNH/ILS/blob/master/4.02/Objectbladen/"
+        var fds = d.name.split("/")[0]
+        var prefix = d.name.split("/")[1].split(".")[0]
+        var objname = d.name.split(".")[1]
+        if (objname=="x"){alert("alleen een placeholder object") }
+        else{
+          if(prefix=="bgt"){
+            window.open(bgturl+objname.split("_")[0],"_blank")
+         }else if (prefix=="ad"){
+            window.open(adurl+fds+"/"+objname.split(".")[0]+".md","_blank")
+          }
+        }
+        })
+    //.call(d3.behavior.drag()
+      //.origin(function(d) { return d; })
+      //.on("dragstart", function() { 
+		  //this.parentNode.appendChild(this); })
+      //.on("drag", dragmove)
+      //)
+      ;
 
 // add the rectangles for the nodes
   node.append("rect")
@@ -239,7 +256,7 @@ d3.csv("data/mapping-bgt-ad-gisib.csv", function(error, data) {
       .attr("dy", ".35em")
       .attr("text-anchor", "end")
       .attr("transform", null)
-      .text(function(d) { return d.name; })
+      .text(function(d) { return d.name.split("/")[1]; })
     .filter(function(d) { return d.x < width / 2; })
       .attr("x", 6 + sankey.nodeWidth())
       .attr("text-anchor", "start");
