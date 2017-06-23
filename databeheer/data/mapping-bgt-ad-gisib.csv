@@ -41,7 +41,7 @@ GRVERH,/ad.x,/gisib.Nweg foto,
 GRVERH,/ad.x,/gisib.Planten soort verdeling,
 GRVERH,/bgt.begroeidTerreindeel_v,Opdelend/ad.begroeidTerreindeel_v,
 GRVERH,/bgt.begroeidTerreindeel_v,Opdelend/ad.begroeidTerreindeelBerm_v,fysiekvoorkomen = groenvoorziening:gras- en kruidachtigen
-GRVERH,/bgt.begroeidTerreindeel_v,Opdelend/ad.begroeidTerreindeelPlantvak_v,fysiekvoorkomen = loofbos, groenvoorziening:struikrozen, planten, heesters, bosplantsoen, bodembedekkers
+GRVERH,/bgt.begroeidTerreindeel_v,Opdelend/ad.begroeidTerreindeelPlantvak_v,fysiekvoorkomen = loofbos | groenvoorziening:struikrozen | planten | heesters | bosplantsoen | bodembedekkers
 GRVERH,/bgt.begroeidTerreindeelKruin_l,Opdelend/ad.begroeidTerreindeelKruin_l,
 GRVERH,/bgt.begroeidTerreindeelKruin_l,Opdelend/ad.begroeidTerreindeelBermKruin_l,
 GRVERH,/bgt.begroeidTerreindeelKruin_l,Opdelend/ad.begroeidTerreindeelPvKr_l,

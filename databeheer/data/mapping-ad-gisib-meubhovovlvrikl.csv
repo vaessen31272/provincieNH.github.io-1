@@ -95,7 +95,7 @@ OVLVRIKL,buitenFds/ad.utiliteitsNet_tbl,/gisib.VRI Installatie,
 OVLVRIKL,/bgt.kast_p,Inrichtend/ad.kastVri_p,bgtplustype = niet-bgt:verkeersregelinstallatiekast
 OVLVRIKL,/bgt.kast_p,Inrichtend/ad.kastOvl_p,bgtplustype = niet-bgt:openbare verlichtingkast
 OVLVRIKL,/bgt.mast_p,Inrichtend/ad.mastDraagconstructie_p,
-OVLVRIKL,/bgt.paal_p,Inrichtend/ad.paalDraagconstructie_p,bgtplustype = niet-bgt:lichtmast, niet-bgt:drukknoppaal, niet-bgt:haltepaal, niet-bgt:poller, niet-bgt:portaal, niet-bgt:verkeersbordpaal, niet-bgt:verkeersregelinstallatiepaal
+OVLVRIKL,/bgt.paal_p,Inrichtend/ad.paalDraagconstructie_p,bgtplustype = niet-bgt:lichtmast | niet-bgt:drukknoppaal | niet-bgt:haltepaal | niet-bgt:poller | niet-bgt:portaal | niet-bgt:verkeersbordpaal | niet-bgt:verkeersregelinstallatiepaal
 OVLVRIKL,/bgt.put_p,Inrichtend/ad.leidingelement_p,bgtplustype = niet-bgt:kolk
 OVLVRIKL,/bgt.sensor_l,Inrichtend/ad.sensor_l,
 OVLVRIKL,/bgt.sensor_p,Inrichtend/ad.sensor_p,
