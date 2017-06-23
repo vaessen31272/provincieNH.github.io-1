@@ -1,5 +1,5 @@
 Areaal,source,target,mapping
-GRVERH,Opdelend/ad.begroeidTerreindeel_v,/gisib.x,
+GRVERH,Opdelend/ad.begroeidterreindeel_v,/gisib.x,
 GRVERH,Opdelend/ad.begroeidTerreindeelBerm_v,/gisib.Berm,
 GRVERH,Opdelend/ad.begroeidTerreindeelBermKruin_l,/gisib.x,
 GRVERH,Opdelend/ad.begroeidTerreindeelKruin_l,/gisib.x,
@@ -39,7 +39,7 @@ GRVERH,Functioneel/ad.wegvak_v,/gisib.Wegvak,
 GRVERH,/ad.x,/gisib.Beschoeiing LM reparatie,
 GRVERH,/ad.x,/gisib.Nweg foto,
 GRVERH,/ad.x,/gisib.Planten soort verdeling,
-GRVERH,/bgt.begroeidTerreindeel_v,Opdelend/ad.begroeidTerreindeel_v,
+GRVERH,/bgt.begroeidTerreindeel_v,Opdelend/ad.begroeidterreindeel_v,
 GRVERH,/bgt.begroeidTerreindeel_v,Opdelend/ad.begroeidTerreindeelBerm_v,fysiekvoorkomen = groenvoorziening:gras- en kruidachtigen
 GRVERH,/bgt.begroeidTerreindeel_v,Opdelend/ad.begroeidTerreindeelPlantvak_v,fysiekvoorkomen = loofbos | groenvoorziening:struikrozen | planten | heesters | bosplantsoen | bodembedekkers
 GRVERH,/bgt.begroeidTerreindeelKruin_l,Opdelend/ad.begroeidTerreindeelKruin_l,
