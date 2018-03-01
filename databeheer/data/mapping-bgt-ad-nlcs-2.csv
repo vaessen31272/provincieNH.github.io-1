@@ -8,7 +8,9 @@ MEUBHOV,Inrichtend/ad.bordScheepvaart_p,/*-**-VV-VERKEERSTEKEN-G,typespec = Sche
 MEUBHOV,Inrichtend/ad.bordWegwijzer_p,/*-**-VW-BEWEGWIJZERING_DRAAGCONSTRUCTIE-S,typespec = Wegwijzer
 MEUBHOV,Inrichtend/ad.bordZwemwater_p,/nlcs.x,
 MEUBHOV,buitenFds/ad.concessieverlener_tbl,/nlcs.x,
+MEUBHOV,/bgt.x,buitenFds/ad.concessieverlener_tbl,
 MEUBHOV,/bgt.x,/ad.x,
+MEUBHOV,/ad.x,/nlcs.x,
 MEUBHOV,Inrichtend/ad.fietsparkeervoorziening_l,/nlcs.x,
 MEUBHOV,Inrichtend/ad.gebouwInstallatie_v,/nlcs.x,
 MEUBHOV,Functioneel/ad.halte_v,/nlcs.x,
