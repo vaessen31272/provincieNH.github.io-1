@@ -1,0 +1,129 @@
+Areaal,source,target,mapping
+MEUBHOV,Inrichtend/ad.bak_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,typespec = Afvalbak
+MEUBHOV,Inrichtend/ad.bord_p,/*-**-VW-VERKEERSTEKEN_BORD-S,typespec = Verkeersbord
+MEUBHOV,Inrichtend/ad.bord_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR_SCHRIKHEK-G,typespec = Waarschuwingshek
+MEUBHOV,Inrichtend/ad.bord_p,/*-**-KL-BRANDSTOF_LOCATIEPAAL-G/S,typespec = Verklikker transportleiding
+MEUBHOV,Inrichtend/ad.bord_p,/*-**-KL-DRIP-G,typespec = Dynamische snelheidsindicator
+MEUBHOV,Inrichtend/ad.bordScheepvaart_p,/*-**-VV-VERKEERSTEKEN-G,typespec = Scheepvaartbord
+MEUBHOV,Inrichtend/ad.bordWegwijzer_p,/*-**-VW-BEWEGWIJZERING_DRAAGCONSTRUCTIE-S,typespec = Wegwijzer
+MEUBHOV,Inrichtend/ad.bordZwemwater_p,/nlcs.x,
+MEUBHOV,buitenFds/ad.concessieverlener_tbl,/nlcs.x,
+MEUBHOV,/bgt.x,/ad.x,
+MEUBHOV,Inrichtend/ad.fietsparkeervoorziening_l,/nlcs.x,
+MEUBHOV,Inrichtend/ad.gebouwInstallatie_v,/nlcs.x,
+MEUBHOV,Functioneel/ad.halte_v,/nlcs.x,
+MEUBHOV,Inrichtend/ad.kast_p,/*-**-KL-DATA_CAI_KAST-S,typespec = CAI-kast
+MEUBHOV,Inrichtend/ad.kast_p,/*-**-KL-DATA_TELECOM_KAST-S,typespec = Telecom kast
+MEUBHOV,Inrichtend/ad.kast_p,/*-**-KL-GMS-G,typespec = GMS kast
+MEUBHOV,Opdelend/ad.overigBouwwerk_v,/*-**-IE-MEUBILAIR_WEGMEUBILAIR_TANK-GV,typespec = opslagtank
+MEUBHOV,Inrichtend/ad.overigeScheiding_l,/*-**-FV-GELEIDING_WILDRASTER-G,typespec = Faunaraster
+MEUBHOV,Inrichtend/ad.overigeScheiding_v,/nlcs.x,
+MEUBHOV,Inrichtend/ad.paalAfbakening_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_PRAATPAAL / typespec = Praatpaal
+MEUBHOV,Inrichtend/ad.paalAfbakening_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_GRENSPAAL / typespec = Grensmarkering
+MEUBHOV,Inrichtend/ad.paalAfbakening_p,/*-**-KL-TELPUNT-G,typespec = Telpaal
+MEUBHOV,Inrichtend/ad.put_p,/*-**-KL-BRANDSTOF_PUT-S,typespec = Benzine / olieput
+MEUBHOV,Inrichtend/ad.put_p,/ *-**-KL-WATER_BRANDLEIDING_PUT-S,typespec = Brandkraan / -put
+MEUBHOV,Inrichtend/ad.put_p,/*-**-RI-DRAINAGE_PUT-S,typespec = Drainageput
+MEUBHOV,Inrichtend/ad.put_p,/*-**-KL-GAS_PUT-S,typespec = Gasput
+MEUBHOV,Inrichtend/ad.put_p,/*-**-KL-WATER_PUT-S,typespec = Waterleidingput
+MEUBHOV,Inrichtend/ad.scheiding_l,/*-**-GK-KADEMUUR-G,typespec = Kademuur
+MEUBHOV,Inrichtend/ad.scheiding_l,/*-**-IE-TERREINAFSCHEIDING_KUNSTMATIG_MUUR-G,typespec = Muur
+MEUBHOV,Inrichtend/ad.scheiding_l,/*-**-GK-BESCHOEIING_DAMWAND-G,typespec = Damwand
+MEUBHOV,Inrichtend/ad.scheiding_l,/*-**-KW-KUNSTWERK_GELUIDSWERING_SCHERM-G,typespec = Geluidsscherm
+MEUBHOV,Inrichtend/ad.scheiding_l,/*-**-GK-BESCHOEIING-G,typespec = Walbescherming
+MEUBHOV,Inrichtend/ad.scheiding_l,/*-**-IE-TERREINAFSCHEIDING_KUNSTMATIG_HEKWERK-G,typespec = Hek
+MEUBHOV,Inrichtend/ad.scheiding_l,/*-**-IE-TERREINAFSCHEIDING_KUNSTMATIG_HEKWERK_RASTER-G,typespec = Draadraster
+MEUBHOV,Opdelend/ad.scheiding_v,/*-**-IE-TERREINAFSCHEIDING_KUNSTMATIG_MUUR-GV,typespec = Muur
+MEUBHOV,Opdelend/ad.scheiding_v,/*-**-GK-KADEMUUR-GV,typespec = Kademuur
+MEUBHOV,Inrichtend/ad.spoor_l,/*-**-AM-AS_SPOOR-G,typespec = Spoor
+MEUBHOV,Inrichtend/ad.spoorrail_l,/nlcs.x,typespec = Nlcs
+MEUBHOV,Inrichtend/ad.straatmeubilair_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_ABRI / typespec = Abri
+MEUBHOV,Inrichtend/ad.straatmeubilair_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WATER_BOLDER / typespec = Bolder
+MEUBHOV,Inrichtend/ad.straatmeubilair_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_BRIEVENBUS / typespec = Brievenbus
+MEUBHOV,Inrichtend/ad.straatmeubilair_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_KUNSTWERK / typespec = Kunstobject
+MEUBHOV,Inrichtend/ad.straatmeubilair_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_SLAGBOOM / typespec = Slagboom
+MEUBHOV,Inrichtend/ad.straatmeubilair_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_SPEELTOESTEL / typespec = Speelvoorziening
+MEUBHOV,Inrichtend/ad.straatmeubilair_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_TELEFOONCEL / typespec = Telefooncel
+MEUBHOV,Inrichtend/ad.straatmeubilair_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_ZITBANK / typespec = Bank
+MEUBHOV,Inrichtend/ad.straatmeubilair_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_PICKNICKSET / typespec = Picknicktafel
+MEUBHOV,Inrichtend/ad.straatmeubilair_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_SCHIJNWERPER / typespec = Lichtpunt
+MEUBHOV,Inrichtend/ad.straatmeubilair_p,/*-**-IE-MEUBILAIR_WEGMEUBILAIR-S,NLCS-symbool: SIE:SIE-WEG_RECLAMEZUIL / typespec = Reclamezuil
+MEUBHOV,/bgt.bak_p,Inrichtend/ad.bak_p,typespec = P
+MEUBHOV,/bgt.bord_p,Inrichtend/ad.bordScheepvaart_p,bgtplustype = niet-bgt:scheepvaartbord
+MEUBHOV,/bgt.bord_p,Inrichtend/ad.bordWegwijzer_p,bgtplustype = niet-bgt:wegwijzer
+MEUBHOV,/bgt.bord_p,Inrichtend/ad.bordZwemwater_p,bgtplustype = niet-bgt (geen goed onderscheid in BGT)
+MEUBHOV,/bgt.bord_p,Inrichtend/ad.bord_p,bgtplustype = overige waarden
+MEUBHOV,/bgt.gebouwInstallatie_v,Inrichtend/ad.gebouwInstallatie_v,typespec = V
+MEUBHOV,/bgt.installatie_p,Inrichtend/ad.installatie_p,typespec = P
+MEUBHOV,/bgt.kast_p,Inrichtend/ad.kast_p,bgtplustype = overige waarden
+MEUBHOV,/bgt.overigBouwwerk_v,Opdelend/ad.overigBouwwerk_v,typespec = V
+MEUBHOV,/bgt.overigeScheiding_l,Inrichtend/ad.overigeScheiding_l,typespec = L
+MEUBHOV,/bgt.overigeScheiding_v,Inrichtend/ad.overigeScheiding_v,typespec = V
+MEUBHOV,/bgt.paal_p,Inrichtend/ad.paalAfbakening_p,bgtplustype = o.a. niet-bgt:vlaggenmast
+MEUBHOV,/bgt.put_p,Inrichtend/ad.put_p,overige waarden
+MEUBHOV,/bgt.scheiding_l,Inrichtend/ad.scheiding_l,typespec = L
+MEUBHOV,/bgt.scheiding_v,Opdelend/ad.scheiding_v,typespec = V
+MEUBHOV,/bgt.spoor_l,Inrichtend/ad.spoor_l,typespec = L
+MEUBHOV,/bgt.straatmeubilair_p,Inrichtend/ad.straatmeubilair_p,bgtplustype = overige waarden
+MEUBHOV,/bgt.x,Inrichtend/ad.fietsparkeervoorziening_l,typespec = L
+MEUBHOV,/bgt.x,Functioneel/ad.halte_v,typespec = V
+MEUBHOV,/bgt.x,Inrichtend/ad.spoorrail_l,typespec = L
+OVLVRIKL,Functioneel/ad.aanduidingEisVoorzorgsmaatr_p,/nlcs.x,
+OVLVRIKL,/bgt.x,Functioneel/ad.aanduidingEisVoorzorgsmaatr_p,typespec = P
+OVLVRIKL,Functioneel/ad.aanduidingVerzoekContact_p,/nlcs.x,
+OVLVRIKL,/bgt.x,Functioneel/ad.aanduidingVerzoekContact_p,typespec = P
+OVLVRIKL,Inrichtend/ad.buis_l,/nlcs.x,
+OVLVRIKL,Inrichtend/ad.buisleiding_v,/nlcs.x,
+OVLVRIKL,Functioneel/ad.diepteTovMaaiveld_p,/nlcs.x,
+OVLVRIKL,/bgt.x,Functioneel/ad.diepteTovMaaiveld_p,typespec = P
+OVLVRIKL,Inrichtend/ad.electriciteitskabel_l,/nlcs.x,
+OVLVRIKL,/bgt.x,Inrichtend/ad.electriciteitskabel_l,typespec = L
+OVLVRIKL,Inrichtend/ad.installatie_p,/*-**-KL-POMP-G,typespec = Pomp
+OVLVRIKL,Functioneel/ad.kabelbed_v,/nlcs.x,
+OVLVRIKL,/bgt.x,Functioneel/ad.kabelbed_v,typespec = V
+OVLVRIKL,Inrichtend/ad.kastDRIS_p,/nlcs.x,
+OVLVRIKL,/bgt.x,Inrichtend/ad.kastDRIS_p,typespec = P
+OVLVRIKL,Inrichtend/ad.kastOvl_p,/*-**-KL-ET_LS_OV_KAST-S,typespec = Openbare verlichtingskast
+OVLVRIKL,Inrichtend/ad.kastVri_p,/nlcs.x,
+OVLVRIKL,Inrichtend/ad.lamp_p,/nlcs.x,
+OVLVRIKL,Inrichtend/ad.lantaarn_p,/nlcs.x,
+OVLVRIKL,Inrichtend/ad.leidingelement_p,/nlcs.x,
+OVLVRIKL,Inrichtend/ad.mantelbuis_v,/nlcs.x,
+OVLVRIKL,Inrichtend/ad.mastDraagconstructie_p,/*-**-KL-DATA_ZENDMAST-G,typespec = Zendmast
+OVLVRIKL,buitenFds/ad.onderdeel_tbl,/nlcs.x,
+OVLVRIKL,/bgt.x,buitenFds/ad.onderdeel_tbl,typespec = Tbl
+OVLVRIKL,Inrichtend/ad.paalDraagconstructie_p,/*-**-KL-ET_LS_OV_LICHTMAST-S,NLCS-symbool: SKL:SKL-ET_OV_ARMATUUR / typespec = Lichtmast
+OVLVRIKL,Inrichtend/ad.paalDraagconstructie_p,/*-**-VW-VRI-S,NLCS-symbool: SVW:SVW-VRI / typespec = Verkeersregelinstallatiepaal
+OVLVRIKL,Inrichtend/ad.paalDraagconstructie_p,/*-**-VW-VERKEERSTEKEN_DRAAGCONSTRUCTIE-S,NLCS-symbool: SVW:SVW-VERKEERSTEKEN_DRAAGCONSTRUCTIE / typespec = Verkeersbordpaal
+OVLVRIKL,Inrichtend/ad.paalDraagconstructie_p,/*-**-VW-VRI-G,NLCS-symbool: SVW:SVW-VRI_DRUKKNOPSMAST / typespec = Drukknoppaal
+OVLVRIKL,Inrichtend/ad.paalDraagconstructie_p,/*-**-VW-BEWEGWIJZERING_DRAAGCONSTRUCTIE_PORTAAL-G,typespec = Portaal
+OVLVRIKL,Inrichtend/ad.sensor_l,/nlcs.x,
+OVLVRIKL,Inrichtend/ad.sensor_p,/nlcs.x,
+OVLVRIKL,Inrichtend/ad.straatmeubilairLichtpunt_p,/nlcs.x,
+OVLVRIKL,Inrichtend/ad.telecommunicatiekabel_l,/nlcs.x,
+OVLVRIKL,/bgt.x,Inrichtend/ad.telecommunicatiekabel_l,typespec = L
+OVLVRIKL,Inrichtend/ad.telpaal_p,/nlcs.x,
+OVLVRIKL,/bgt.x,Inrichtend/ad.telpaal_p,typespec = P
+OVLVRIKL,Inrichtend/ad.uithouder_p,/nlcs.x,
+OVLVRIKL,Inrichtend/ad.uitleggerPortaal_l,/nlcs.x,
+OVLVRIKL,/bgt.x,Inrichtend/ad.uitleggerPortaal_l,typespec = L
+OVLVRIKL,Functioneel/ad.utiliteitsLink_l,/nlcs.x,
+OVLVRIKL,/bgt.x,Functioneel/ad.utiliteitsLink_l,typespec = L
+OVLVRIKL,buitenFds/ad.utiliteitsNet_tbl,/nlcs.x,
+OVLVRIKL,/bgt.kast_p,Inrichtend/ad.kastVri_p,bgtplustype = niet-bgt:verkeersregelinstallatiekast
+OVLVRIKL,/bgt.kast_p,Inrichtend/ad.kastOvl_p,bgtplustype = niet-bgt:openbare verlichtingkast
+OVLVRIKL,/bgt.mast_p,Inrichtend/ad.mastDraagconstructie_p,typespec = P
+OVLVRIKL,/bgt.paal_p,Inrichtend/ad.paalDraagconstructie_p,bgtplustype = niet-bgt:lichtmast | niet-bgt:drukknoppaal | niet-bgt:haltepaal | niet-bgt:poller | niet-bgt:portaal | niet-bgt:verkeersbordpaal | niet-bgt:verkeersregelinstallatiepaal
+OVLVRIKL,/bgt.put_p,Inrichtend/ad.leidingelement_p,bgtplustype = niet-bgt:kolk
+OVLVRIKL,/bgt.sensor_l,Inrichtend/ad.sensor_l,typespec = L
+OVLVRIKL,/bgt.sensor_p,Inrichtend/ad.sensor_p,typespec = P
+OVLVRIKL,/bgt.straatmeubilair_p,Inrichtend/ad.straatmeubilairLichtpunt_p,bgtplustype = niet-bgt:lichtpunt
+OVLVRIKL,/bgt.x,Inrichtend/ad.lantaarn_p,typespec = P
+OVLVRIKL,/bgt.x,Inrichtend/ad.buis_l,typespec = L
+OVLVRIKL,/bgt.x,Inrichtend/ad.buisleiding_v,typespec = V
+OVLVRIKL,/bgt.x,Inrichtend/ad.mantelbuis_v,typespec = V
+OVLVRIKL,/bgt.x,Inrichtend/ad.leidingelement_p,typespec = P
+OVLVRIKL,/bgt.x,Inrichtend/ad.lamp_p,typespec = P
+OVLVRIKL,/bgt.x,Inrichtend/ad.uitleggerPortaal_l,typespec = L
+OVLVRIKL,/bgt.x,Inrichtend/ad.uithouder_p,typespec = P
+OVLVRIKL,/bgt.x,buitenFds/ad.utiliteitsNet_tbl,typespec = Tbl
